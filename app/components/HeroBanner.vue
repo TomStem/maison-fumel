@@ -26,13 +26,13 @@ withDefaults(defineProps<Props>(), {
       class="absolute inset-0 w-full h-full object-cover scale-105"
     />
 
-    <div class="relative z-10 text-white text-center px-4 max-w-4xl pt-10">
-      <h1
-        v-if="headerTextKey"
-        class="font-bold mb-2 text-4xl desktop:text-5xl drop-shadow-xl"
-      >
-        {{ $t(headerTextKey) }}
-      </h1>
+		<div class="relative z-10 text-white text-center px-4 max-w-4xl pt-10">
+			<h1
+				v-if="headerTextKey"
+				class="font-bold mb-2 text-4xl desktop:text-5xl drop-shadow-xl"
+			>
+				{{ $t(headerTextKey) }}
+			</h1>
 
 		  <p v-if="sloganTextKey" class="text-2xl italic font-light drop-shadow-xl">
 		    {{ $t(sloganTextKey) }}
