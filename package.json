@@ -1,0 +1,50 @@
+{
+  "name": "maison-fumel",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.20",
+    "@fullcalendar/daygrid": "^6.1.20",
+    "@fullcalendar/google-calendar": "^6.1.20",
+    "@fullcalendar/multimonth": "^6.1.20",
+    "@fullcalendar/vue3": "^6.1.20",
+    "@lucide/vue": "^1.14.0",
+    "@nuxt/eslint": "^1.9.0",
+    "@nuxt/image": "^1.11.0",
+    "@nuxtjs/device": "^4.0.0",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/i18n": "^10.2.4",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@primeuix/themes": "^2.0.3",
+    "@vueuse/core": "^14.3.0",
+    "better-sqlite3": "^12.4.1",
+    "cheerio": "^1.2.0",
+    "eslint": "^9.37.0",
+    "flag-icons": "^7.5.0",
+    "ical.js": "^2.2.1",
+    "keen-slider": "^6.8.6",
+    "lucide": "^1.3.0",
+    "nuxt": "^4.1.3",
+    "photoswipe": "^5.4.4",
+    "primevue": "^4.5.5",
+    "typescript": "^5.9.3",
+    "viewport": "^2.0.1",
+    "vue": "^3.5.22",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.5.5",
+    "nuxt-anchorscroll": "^1.0.5",
+    "prettier": "3.6.2",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3"
+  }
+}
