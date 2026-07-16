@@ -21,7 +21,7 @@ withDefaults(defineProps<Props>(), {
     class="relative flex items-start justify-end p-10 overflow-hidden h-[60vh] mobile-ls:h-[100vh] desktop:h-[85vh]"
   >
     <img
-      :src="imageSourceUrl"
+	    :src="imageSourceUrl"
       :alt="imageAltTextKey"
       class="absolute inset-0 w-full h-full object-cover scale-105"
     />
@@ -34,9 +34,9 @@ withDefaults(defineProps<Props>(), {
 				{{ $t(headerTextKey) }}
 			</h1>
 
-		  <p v-if="sloganTextKey" class="text-2xl italic font-light drop-shadow-xl">
-		    {{ $t(sloganTextKey) }}
-		  </p>
+			<p v-if="sloganTextKey" class="text-2xl italic font-light drop-shadow-xl">
+				{{ $t(sloganTextKey) }}
+			</p>
 		</div>
   </div>
 </template>
