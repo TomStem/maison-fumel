@@ -25,28 +25,28 @@ const { t } = useI18n();
           class="text-slate-900 leading-relaxed"
         >
           <template #links>
-            {{ $t('page.area.info-card.the-area.links-header') }} <br />
+            {{ $t('page.area.info-card.the-area.links-header') }} <br >
             <a
               href="https://www.france-voyage.com/cities-towns/fumel-16500/tourist-office-fumel-vallee-lot-7059.htm"
               target="_blank"
               class="text-[#93a9c6] font-medium underline cursor-pointer"
               >Tourist Office Fumel-Vallée du Lot</a
             >
-            <br />
+            <br >
             <a
               href="https://www.guide-du-lot-et-garonne.com/en/tourism/discover/towns-and-villages/fumel-266/fumel-1133.html"
               target="_blank"
               class="text-[#93a9c6] font-medium underline cursor-pointer"
               >Guide du Lot-et-Garonne</a
             >
-            <br />
+            <br >
             <a
               href="https://www.france-voyage.com/tourism/fumel-commune-16500.htm"
               target="_blank"
               class="text-[#93a9c6] font-medium underline cursor-pointer"
               >France-Voyage</a
             >
-            <br /><br />
+            <br ><br >
           </template>
 
           <template #footer>
@@ -54,8 +54,8 @@ const { t } = useI18n();
           </template>
 
           <template #newline>
-            <br />
-            <br />
+            <br >
+            <br >
           </template>
         </i18n-t>
       </InfoCard>

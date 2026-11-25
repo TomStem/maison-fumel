@@ -1,436 +1,436 @@
 {
-    "navigation": {
-        "home": "Home",
-        "the-house": "De Woning",
-        "photos": "Foto's",
-        "area": "Omgeving",
-        "practical-information": "Praktische informatie",
-        "book-now": "Boek nu",
-        "contact": "Contact"
-    },
-    "page": {
-        "home": {
-            "hero": {
-                "header": "Rust, ruimte en comfort in het hart van Zuidwest-Frankrijk",
-                "slogan": "Luxe vakantievilla met privézwembad",
-                "image-description": "Foto van zwembad en achterkant huis"
-            },
-            "comfort-amenities": {
-                "header": "Comfort & Voorzieningen",
-                "sub-header": "De woning is van alle gemakken voorzien voor een zorgeloze vakantie:",
-                "circle": {
-                    "1": "Le Petit Wren {newline} Fumel",
-                    "2": "Privé zwembad, Royale tuin met terassen en {newline} uitzicht",
-                    "3": "Comfortabel {newline} buitenleven, {newline} Rust & Ruimte",
-                    "4": "Wijngebied Vignoble de Cahors, markten met lokale specialiteiten",
-                    "5": "Prachtige Bastide dorpen & Indrukwekkende kastelen",
-                    "6": "Fietsen,{newline}Wandelen, {newline}Kanoën en {newline} diverse {newline}golfbanen"
-                },
-                "list": {
-                    "private-pool": "Privé zwembad",
-                    "poolhouse-kitchen": "Poolhouse met keuken, douche & toilet",
-                    "badrooms": "4 slaapkamers",
-                    "bathrooms": "2 badkamers",
-                    "kitchen": "Royale en compleet ingerichte woonkeuken",
-                    "bbq-kitchen": "BBQ / buitenkeuken",
-                    "terraces": "Meerdere terrassen",
-                    "terrain": "Volledig omheind terrein met toegangspoort",
-                    "parking": "Parkeren op eigen terrein",
-                    "location": "Rustige landelijke ligging"
-                }
-            },
-            "info-card": {
-                "petit-wren": {
-                    "header": "Le Petit Wren",
-                    "content": "Een charmante en zeer sfeervolle vakantiewoning, perfect onderhouden, recent volledig gemoderniseerd en van alle gemakken voorzien. De woning ligt op een royaal, volledig omheind perceel van circa 4.000 m² en biedt privacy, rust en een prachtig uitzicht over de landelijke omgeving van Fumel. Met vier slaapkamers, twee badkamers, een royaal (recent vernieuwd) zwembad en een compleet uitgerust pool house is dit de ideale plek voor een ontspannen vakantie met familie of vrienden."
-                },
-                "region": {
-                    "header": "De Regio",
-                    "content": "{place} ligt op de grens van de departementen {region1} en de {region2}, een regio die bekendstaat om haar rust, ruimte en authentieke Franse sfeer. Hier vindt u glooiende heuvels, zonovergoten wijngaarden, middeleeuwse bastide-dorpen en uitgestrekte natuur, ver weg van het massatoerisme maar met alles binnen handbereik voor een heerlijke vakantie. {newline} De omgeving van Fumel is ideaal voor liefhebbers van wandelen en fietsen, cultuur, wijndomeinen, lokale markten, kortom de ontspannen Franse levensstijl. Kleine landweggetjes voeren langs zonnebloemvelden, boomgaarden, prachtige (bastide) dorpen en indrukwekkende kastelen."
-                }
-            },
-            "photos": {
-                "header": "Impressie van de woning",
-                "view-all": "Bekijk alle foto's"
-            }
+  "navigation": {
+    "home": "Home",
+    "the-house": "De Woning",
+    "photos": "Foto's",
+    "area": "Omgeving",
+    "practical-information": "Praktische informatie",
+    "book-now": "Boek nu",
+    "contact": "Contact"
+  },
+  "page": {
+    "home": {
+      "hero": {
+        "header": "Rust, ruimte en comfort in het hart van Zuidwest-Frankrijk",
+        "slogan": "Luxe vakantievilla met privézwembad",
+        "image-description": "Foto van zwembad en achterkant huis"
+      },
+      "comfort-amenities": {
+        "header": "Comfort & Voorzieningen",
+        "sub-header": "De woning is van alle gemakken voorzien voor een zorgeloze vakantie:",
+        "circle": {
+          "1": "Le Petit Wren {newline} Fumel",
+          "2": "Privé zwembad, Royale tuin met terassen en {newline} uitzicht",
+          "3": "Comfortabel {newline} buitenleven, {newline} Rust & Ruimte",
+          "4": "Wijngebied Vignoble de Cahors, markten met lokale specialiteiten",
+          "5": "Prachtige Bastide dorpen & Indrukwekkende kastelen",
+          "6": "Fietsen,{newline}Wandelen, {newline}Kanoën en {newline} diverse {newline}golfbanen"
         },
+        "list": {
+          "private-pool": "Privé zwembad",
+          "poolhouse-kitchen": "Poolhouse met keuken, douche & toilet",
+          "badrooms": "4 slaapkamers",
+          "bathrooms": "2 badkamers",
+          "kitchen": "Royale en compleet ingerichte woonkeuken",
+          "bbq-kitchen": "BBQ / buitenkeuken",
+          "terraces": "Meerdere terrassen",
+          "terrain": "Volledig omheind terrein met toegangspoort",
+          "parking": "Parkeren op eigen terrein",
+          "location": "Rustige landelijke ligging"
+        }
+      },
+      "info-card": {
+        "petit-wren": {
+          "header": "Le Petit Wren",
+          "content": "Een charmante en zeer sfeervolle vakantiewoning, perfect onderhouden, recent volledig gemoderniseerd en van alle gemakken voorzien. De woning ligt op een royaal, volledig omheind perceel van circa 4.000 m² en biedt privacy, rust en een prachtig uitzicht over de landelijke omgeving van Fumel. Met vier slaapkamers, twee badkamers, een royaal (recent vernieuwd) zwembad en een compleet uitgerust pool house is dit de ideale plek voor een ontspannen vakantie met familie of vrienden."
+        },
+        "region": {
+          "header": "De Regio",
+          "content": "{place} ligt op de grens van de departementen {region1} en de {region2}, een regio die bekendstaat om haar rust, ruimte en authentieke Franse sfeer. Hier vindt u glooiende heuvels, zonovergoten wijngaarden, middeleeuwse bastide-dorpen en uitgestrekte natuur, ver weg van het massatoerisme maar met alles binnen handbereik voor een heerlijke vakantie. {newline} De omgeving van Fumel is ideaal voor liefhebbers van wandelen en fietsen, cultuur, wijndomeinen, lokale markten, kortom de ontspannen Franse levensstijl. Kleine landweggetjes voeren langs zonnebloemvelden, boomgaarden, prachtige (bastide) dorpen en indrukwekkende kastelen."
+        }
+      },
+      "photos": {
+        "header": "Impressie van de woning",
+        "view-all": "Bekijk alle foto's"
+      }
+    },
+    "the-house": {
+      "hero": {
+        "header": "Comfortable en Sfeervol"
+      },
+      "info-card": {
         "the-house": {
-            "hero": {
-                "header": "Comfortable en Sfeervol"
-            },
-            "info-card": {
-                "the-house": {
-                    "header": "De Woning",
-                    "content": "Deze charmante woning combineert comfort met een praktische en ruime indeling. De woning is recent gemoderniseerd, maar de warme en authentieke sfeer is behouden. De royale woonkeuken vormt het hart van het huis en staat in open verbinding met de eetkamer en de sfeervolle zitkamer, verdeeld over twee niveaus. Hierdoor ontstaat een lichte en gezellige leefruimte waar binnen en buiten moeiteloos in elkaar overlopen. Vanuit alle ruimtes loopt u zo de voor- of achtertuin in. {newline} Op de benedenverdieping bevindt zich de ruime master bedroom met en-suite badkamer, ideaal voor extra comfort en privacy. Deze slaapkamer heeft een eigen terras aan de voorzijde van de woning, waar u heerlijk in de ochtendzon de dag kan beginnen. Op dit niveau is ook een aparte wasruimte gesitueerd. Op de bovenverdieping liggen drie comfortabele slaapkamers, een tweede badkamer."
-                },
-                "niveaus": {
-                    "content": "De woning heeft 3 niveaus: vanuit de verdieping met de entree, keuken en eet-/woonkamer ga je een halve verdieping naar beneden naar de master bedroom of een halve verdieping omhoog naar de overige slaapkamers"
-                },
-                "outside-pool": {
-                    "header": "Buitenleven & Zwembad",
-                    "content": "De woning ligt op een prachtig perceel van circa 4.000 m², volledig omheind en bereikbaar via een elektrische toegangspoort. De tuin biedt volop privacy en meerdere terrassen, zodat u op elk moment van de dag kunt kiezen tussen zon en schaduw. {newline} Het royale vernieuwde zwembad (ca. 40 m²) ligt op het zuiden en vormt het centrale punt van de tuin. Hier geniet u van lange zomerdagen met uitzicht over de natuur. Daarnaast beschikt de woning over een volledig uitgerust poolhouse met:",
-                    "footer": "Er is bovendien ruime parkeergelegenheid voor meerdere auto's op eigen terrein, met laadvoorziening voor EV’s."
-                }
-            },
-            "groundLevelList": {
-                "header": "Begane grond/Entree niveau",
-                "royal-kitchen": "Royale en compleet ingerichte woonkeuken",
-                "open-dining": "Open eetkamer",
-                "sitting-area": "Sfeervolle zitkamer op split-level"
-            },
-            "lowerLevelList": {
-                "header": "Benedenverdieping",
-                "master-bedroom": "Master bedroom met badkamer en-suite (inloopdouche, dubbele wastafel en toilet)",
-                "laundry": "Was-/bergruimte (met o.a: wasmachine, vriezer, strijkplank en ijzer, stofzuiger)"
-            },
-            "upperLevelList": {
-                "header": "Bovenverdieping",
-                "bedrooms": "3 ruime slaapkamers",
-                "bathrooms": "Tweede badkamer (inloopdouche, dubbele wastafel en toilet)",
-                "toilet": "Overloop met apart toilet"
-            },
-            "poolList": {
-                "kitchen": "Keuken (Aanrecht,4-pits kookplaat en koelkast)",
-                "shower-toilet": "Douche en toilet",
-                "plastic-tableware": "Servies (kunststof) voor gebruik in de tuin en bij het zwembad",
-                "sport-play": "Meerdere sport en spel artikelen",
-                "royal-bbq": "Royale gasbarbecue"
-            },
-            "houseList": {
-                "header": "Ideaal voor je verblijf",
-                "type": "Vrijstaande woning",
-                "private-pool": "Privé zwembad",
-                "poolhouse": "Poolhouse met keuken en sanitair",
-                "bedrooms": "4 slaapkamers",
-                "bathrooms": "2 moderne badkamers",
-                "kitchen": "Royale compleet ingerichte keuken",
-                "non-smoking": "Rookvrij huis",
-                "bbq": "BBQ / Buitenkeuken",
-                "terraces": "Meerdere terrassen",
-                "gated-property": "Volledig omheind terrein met elektrische toegangspoort",
-                "parking": "Parkeren op eigen terrein met laadvoorziening voor EV's",
-                "location": "Rustige landelijke ligging met uitzicht"
-            },
-            "kitchenList": {
-                "header": "Keuken",
-                "stovetop": "Kookplaat (4-pits inductie)",
-                "oven": "Oven (hete lucht)",
-                "fridge-freezer": "Koel-/vriescombinatie",
-                "dishwasher": "Vaatwasser",
-                "microwave": "Magnetron",
-                "coffee-machine": "Koffiezetapparaat",
-                "espresso-machine": "Espressomachine (Nespresso cups)",
-                "kettle": "Elektrische waterkoker",
-                "utensils": "Keukengerei",
-                "tableware": "Servies & Bestek"
-            },
-            "livingRoomList": {
-                "header": "Woonkamer",
-                "layout": "Verdeeld over 2 niveaus (split level)",
-                "sofas": "2 banken",
-                "loveseats": "2 love-seats",
-                "dining-table": "Eettafel met 8 stoelen",
-                "flooring": "Plavuizen vloer"
-            },
-            "internetTvList": {
-                "header": "Internet & TV",
-                "wifi": "Wifi is beschikbaar in de gehele woning",
-                "internet": "Breedband/glasvezel",
-                "tv": "Smart TV (Chromecast aanwezig)"
-            },
-            "pool2List": {
-                "header": "Zwembad",
-                "pool": "Seizoensgebonden privé buitenzwembad",
-                "sunbeds": "Strandstoelen (6)",
-                "chairs": "Fauteuils (2)",
-                "side-tables": "Bijzettafeltjes",
-                "parasols": "Parasols (2)",
-                "towels": "Badhanddoeken"
-            },
-            "parkingList": {
-                "header": "Parkeren",
-                "private-parking": "Parkeergelegenheid op eigen terrein",
-                "ev-charging": "Laadvoorziening voor EV's"
-            },
-            "elseList": {
-                "header": "Overig",
-                "laundry-room": "Aparte wasruimte op benedenverdieping (wasmachine, vriezer, strijkplank/-ijzer, was rekjes)",
-                "baby-amenities": "Kinderbedje (60x100cm) en kinderstoel aanwezig",
-                "no-smoking": "Niet roken in de gehele accommodatie",
-                "entertainment": "Boeken en Spelletjes aanwezig"
-            },
-            "bedroomList": {
-                "header": "Slaapkamers",
-                "bedroom-ground-floor": "Slaapkamer beneden verdieping, 2-persoons bed",
-                "bedroom1": "Slaapkamer 1 boven, 2-persoonsbed",
-                "bedroom2": "Slaapkamer 2 boven, 2-persoonsbed",
-                "bedroom3": "Slaapkamer 3 boven, 2-persoonsbed",
-                "linens": "Beddengoed",
-                "wardrobes": "Alle kamers hebben een kledingkast",
-                "nightstands": "Dubbele nachtkastjes bij de bedden",
-                "flooring": "Houten vloeren"
-            },
-            "bathroomList": {
-                "header": "Badkamers",
-                "modern": "Recent gemoderniseerd",
-                "shower": "Inloopdouche",
-                "double-sink": "Dubbele wastafel",
-                "toilet": "WC",
-                "towels": "Handdoeken"
-            },
-            "outsideList": {
-                "header": "Buiten",
-                "poolhouse": "Pool house met keuken, douche en toilet",
-                "terraces": "Meerdere terrassen",
-                "kitchen-terrace": "Verhoogd terras bij keuken met eettafel en stoelen, elektrisch zonnescherm",
-                "rear-terrace": "Terras aan woonkamer (achterzijde)",
-                "front-veranda": "Veranda aan woonkamer (voorzijde)",
-                "poolside-terrace": "Terras naast pool house met bankjes, fauteuils en grote parasol",
-                "garden": "Tuin (gras & bos)",
-                "bbq": "Grote BBQ (gas)",
-                "view": "Uitzicht op tuin, zwembad, landerijen en heuvelachtig landschap"
-            }
+          "header": "De Woning",
+          "content": "Deze charmante woning combineert comfort met een praktische en ruime indeling. De woning is recent gemoderniseerd, maar de warme en authentieke sfeer is behouden. De royale woonkeuken vormt het hart van het huis en staat in open verbinding met de eetkamer en de sfeervolle zitkamer, verdeeld over twee niveaus. Hierdoor ontstaat een lichte en gezellige leefruimte waar binnen en buiten moeiteloos in elkaar overlopen. Vanuit alle ruimtes loopt u zo de voor- of achtertuin in. {newline} Op de benedenverdieping bevindt zich de ruime master bedroom met en-suite badkamer, ideaal voor extra comfort en privacy. Deze slaapkamer heeft een eigen terras aan de voorzijde van de woning, waar u heerlijk in de ochtendzon de dag kan beginnen. Op dit niveau is ook een aparte wasruimte gesitueerd. Op de bovenverdieping liggen drie comfortabele slaapkamers, een tweede badkamer."
         },
-        "photos": {
-            "categories": {
-                "header": "Categorieën",
-                "outside-pool": "Buiten & Zwembad",
-                "living-space": "Woonruimte",
-                "kitchen": "Keuken",
-                "bedrooms": "Slaapkamers",
-                "bathrooms": "Badkamers",
-                "poolhouse": "Poolhouse",
-                "area": "Omgeving"
-            },
-            "no-images": "Geen afbeeldingen voor deze categorie"
+        "niveaus": {
+          "content": "De woning heeft 3 niveaus: vanuit de verdieping met de entree, keuken en eet-/woonkamer ga je een halve verdieping naar beneden naar de master bedroom of een halve verdieping omhoog naar de overige slaapkamers"
         },
-        "area": {
-            "info-card": {
-                "the-area": {
-                    "links-header": "Websites met informatie over Fumel en omgeving:",
-                    "footer": "In de woning vindt u een informatiemap met vele suggesties voor uitstapjes en activiteiten",
-                    "content": "Fumel ligt in het hart van het zuidwesten van Frankrijk, op de grens van de departementen Lot-et-Garonne en de Dordogne, een regio die bekendstaat om haar rust, ruimte en authentieke Franse sfeer. Hier vindt u glooiende heuvels, zonovergoten wijngaarden, middeleeuwse bastide-dorpen en uitgestrekte natuur, ver weg van het massatoerisme maar met alles binnen handbereik voor een heerlijke vakantie. {newline} De omgeving van Fumel is ideaal voor liefhebbers van wandelen en fietsen. Kleine landweggetjes voeren langs zonnebloemvelden, pruimenboomgaarden en charmante dorpen met gezellige markten en terrasjes. In de zomer bruist de regio van de brocantes, avondmarkten en lokale festivals waar u kunt genieten van streekproducten, muziek en de ontspannen Franse levensstijl. {newline} Ook voor cultuurliefhebbers is er volop te ontdekken. In de directe omgeving liggen prachtige bastide-dorpen met smalle straatjes, historische pleinen en indrukwekkende kastelen. Bezoek lokale markten met foie gras, walnoten, kazen en wijnen uit de regio, of strijk neer op een terras voor een lange lunch in de zon. {newline} De rivier de Lot biedt volop mogelijkheden voor recreatie: kanoën, vissen of simpelweg ontspannen aan het water. Daarnaast zijn er diverse golfbanen, wijndomeinen en schilderachtige routes voor dagtochten door de departementen Lot-et-Garonne, Dordogne en de Lot. {newline} {links} {newLine} {footer}"
-                },
-                "chateau-de-bonaguil": {
-                    "header": "Chateau de Bonaguil",
-                    "content": "Kasteel Bonaguil ligt op slechts 5 minuten van Le Petit Wren. Vanaf de top van een rotsachtige uitloper domineert dit kasteel met middeleeuwse dorp de vallei. Het vormt een uniek combinatie van indrukwekkende proporties en in een opmerkelijk goede staat. Tijdens een rondleiding of op eigen gelegenheid zal Bonaguil u onderdompelen in de middeleeuwse geschiedenis."
-                },
-                "monpazier": {
-                    "header": "Monpazier",
-                    "content": "Authentiek bastide-dorp met straatjes in het karakteristieke rasterpatroon. Het stadsplein ligt in het midden van de bastide en herbergt een prachtig gerestaureerde overdekte markt. Monpazier is een Grand National Site van Frankrijk en een Le Plus Beaux de Villages de France, het heeft 32 historische monumenten."
-                },
-                "chateau-de-biron": {
-                    "header": "Chateau de Biron",
-                    "content": "Dit kasteel is een historisch monument. Bijna 1000 jaar geschiedenis heeft deze stenen reus gevormd en biedt een unieke mix van middeleeuwse, renaissance en klassieke architectuur. Animaties, kunsttentoonstellingen, shows en andere feestelijke evenementen zijn geweldige gelegenheden om door de poorten van dit kasteel te gaan."
-                },
-                "rocamadour": {
-                    "header": "Rocamadour",
-                    "content": "Net ten zuidwesten van Padirac, in het regionale natuurpark Causses du Quercy, ligt het heilige dorp Rocamadour. Het is zowel een plek vol legendes als geschiedenis waar oude stenen huizen, majestueuze torens en een kasteel van de klif naar de Alzou-kloof lopen. Het dorp is niet alleen een van de belangrijkste toeristische bestemmingen van Frankrijk, het staat ook op de werelderfgoedlijst van UNESCO."
-                },
-                "gouffre-de-padirac": {
-                    "header": "Gouffre de Padirac",
-                    "content": "Een Ondergronds Avontuur. Je begint je bezoek met een afdaling naar het hart van de 75 meter diepe grot. Vervolgens dwaal je door de ondergrondse galerijen, 103 meter onder de grond, naar de steiger, waar je een boottocht maakt onder begeleiding van een gids. Aan het andere uiteinde van de rivier meer je aan en vervolg je je reis naar het Lac des Gours en de ongelooflijke Salle du Grand Dôme."
-                },
-                "cahors": {
-                    "header": "Cahors",
-                    "content": "Een middeleeuws stadje gelegen in een bocht van de Lot. Deze stad is misschien niet zo bekend bij mensen buiten de Occitanie, maar het is de perfecte dagtocht als je een prachtige historische stad op het Franse platteland wilt bezoeken. Cahors zal bezoekers zeker charmeren met zijn krijtachtige kliffen, fonteinen, kronkelende rivier en beroemde gastronomie."
-                },
-                "chateau-de-chambert": {
-                    "header": "Château de Chambert",
-                    "content": "Is een toonaangevende Malbec Wijngaard, gelegen op een kalksteenplateau kijkt Chambert uit over de vallei van de Lot. De wijngaarden zijn hoog rond het kasteel aangeplant en geïsoleerd van de omliggende wijngaarden en de stedelijke wereld. Geniet van heerlijk eten in Restaurant Holodeck (lunch en diner) of in The Everest Wine & Tapas bar (lunch)."
-                },
-                "grotte-de-rouffignac": {
-                    "header": "Grotte de Rouffignac",
-                    "content": "Gelegen in het midden van de Zwarte Perigord, is Rouffignac een enorme grot. Je vindt meer dan 250 dierfiguren verspreid in dit ondergrondse doolhof. Aan boord van een elektrische trein duik je in de mysterieuze grottenwereld en ontdek je de kunst van de prehistorische jager-verzamelaars."
-                },
-                "villeneuve-sur-lot": {
-                    "header": "Villeneuve-sur-Lot",
-                    "content": "Deze historische bastidestad werd in 1253 gesticht door Alphonse de Potiers. Tegenwoordig is het een veel grotere stad, die het historische centrum omringt, maar ondanks dat zijn er nog steeds veel interessante historische kenmerken te ontdekken in de stad."
-                }
-            }
-        },
-        "practical-information": {
-            "hero": {
-                "header": "Praktische Informatie"
-            },
-            "info-card": {
-                "arrival-departure": {
-                    "header": "Aankomst & Vertrek",
-                    "arrival": {
-                        "header": "Aankomst vanaf 16:00 uur",
-                        "content": "U kunt uw aankomst vanaf 16:00 flexibel plannen zonder afhankelijk te zijn van iemand die u toegang geeft tot de woning, u ontvangt de details na de boeking."
-                    },
-                    "departure": {
-                        "header": "Vertrek uiterlijk 10:00 uur",
-                        "content": "Ook het vertrek is zelfstandig, gedetailleerde informatie vindt u in de huurdersgids in de woning."
-                    }
-                },
-                "travel": {
-                    "header": "De reis naar Le Petit Wren",
-                    "content": "Onze gasten komen in de meeste gevallen per auto, onderstaand wat meer informatie over de route en reistijden. Daarnaast kunt u ook gebruik maken van een van de drie vliegvelden die rondom Fumel liggen"
-                },
-                "car": {
-                    "header": "Per auto",
-                    "intro": "Routes vanuit Nederland en de UK gaan in de meeste gevallen via Parijs en/of Orleans",
-                    "routes": {
-                        "paris": {
-                            "header": "Parijs – Fumel",
-                            "distance": "~ 600km",
-                            "time": "~ 6u 30m"
-                        },
-                        "orleans": {
-                            "header": "Orleans – Fumel",
-                            "distance": "~ 500km",
-                            "time": "~ 5u 30m"
-                        },
-                        "utrecht": {
-                            "header": "Utrecht – Fumel",
-                            "distance": "~ 1100km",
-                            "time": "~ 11u 30m"
-                        }
-                    },
-                    "times": {
-                        "normal": "(bij normaal verkeer)"
-                    },
-                    "extra": {
-                        "header": "Route A20, afslag 57 – Fumel:",
-                        "content": "Als u de snelweg verlaat heeft u nog ca 1 uur reistijd tot Le Petit Wren. Niet alle navigatiesystemen adviseren dezelfde route, maar deze routes bevatten vrijwel altijd meerdere smalle (mooie) weggetjes. Mocht u wat comfortabeler willen rijden volg dan de D820 naar Cahors en dan in Cahors de D811 via Prayssac tot Fumel. Deze route is wat langer, maar de wegen zijn breder en overzichtelijker."
-                    }
-                },
-                "flying": {
-                    "header": "Vliegen",
-                    "airports": {
-                        "bergerac": "Bergerac (1u)",
-                        "toulouse": "Toulouse (1u 40m)",
-                        "bordeaux": "Bordeaux (2u 10m)"
-                    }
-                },
-                "pool": {
-                    "header": "Het zwembad & Poolhouse",
-                    "content": "U heeft het exclusief gebruik van het zwembad tijdens uw verblijf, zie de huurdersgids in de woning voor meer gedetailleerde informatie."
-                },
-                "swimming-pool": {
-                    "header": "Zwembad",
-                    "list": {
-                        "guarded": "Het zwembad is niet bewaakt, het is de verantwoordelijkheid van de huurders om voor hun eigen veiligheid en die van hun kinderen te zorgen. Als eigenaar of vertegenwoordiger kunnen wij niet aansprakelijk worden gesteld voor ongevallen die zich voordoen tijdens het gebruik van het zwembad.",
-                        "kids": "Kinderen mogen het zwembad alleen onder toezicht van een volwassene gebruiken.",
-                        "glasses": "Het gebruik van glaswerk of serviesgoed van het huis rond het zwembad is verboden.",
-                        "salt-electrolysis-system": "Het zwembad maakt gebruik van een automatisch zout-elektrolyse systeem, dit systeem zorgt permanent voor een goede kwaliteit zwemwater zonder de onaangename neveneffecten van chloorwater."
-                    }
-                },
-                "poolhouse": {
-                    "header": "Poolhouse",
-                    "list": {
-                        "douche-toilet": "Hier heeft u de beschikking over een douche, toilet en de ‘zomerkeuken’ met aanrecht, 4-pits gas kookplaat en koelkast.",
-                        "cutterly": "Er zijn een servies en glazen van kunststof voor gebruik buiten.",
-                        "sport-games": "En er liggen verschillende sport- /spel en opblaas artikelen in het wandrek."
-                    }
-                },
-                "environment-energy": {
-                    "header": "Milieu & Energie",
-                    "list": {
-                        "solar-panels": "Zonnepanelen: op het dak van de woning liggen 12 zonnepanelen.",
-                        "ev": "EV-laadvoorziening: er is een laadunit aanwezig voor elektrische auto’s.",
-                        "drinking-water": "Drinkwater: er is een wateronthardingssysteem aanwezig dat ook een waterfilter heeft waardoor er schoon drinkwater zonder bijsmaak (chloor) uit de kraan komt. Je hoeft dus geen flessen water te kopen.",
-                        "waste-separation": "Afvalscheiding: voor de afvalscheiding zijn aparte vuilnisbakken aanwezig, het afval dient naar een nabijgelegen afvalinzamelpunt gebracht te worden"
-                    }
-                },
-                "barbecue": {
-                    "header": "Barbecue",
-                    "content": "Bij het Poolhouse staat een royale Weber gasbarbecue. Zie de gebruikersrichtlijnen in de huurdersgids, de gebruikershandleiding voor de barbecue en de gasfles ligt in het Poolhouse.",
-                    "list": {
-                        "bbq": "Alleen deze barbecue mag gebruikt worden, het is verboden een andere barbecue te gebruiken.",
-                        "moved": "De barbecue mag niet worden verplaatst",
-                        "check": "Check de werking van de gasdrukregelaar die op de gasfles zit, de werking kan afwijken van wat u thuis gewend bent. Sluit de gasfles altijd na gebruik."
-                    }
-                },
-                "house-rules": {
-                    "header": "Belangrijkste huisregels",
-                    "content": "Om ervoor te zorgen dat alles goed verloopt tijdens uw verblijf hebben we een aantal regels opgesteld. U vindt deze informatie - meer gedetailleerd - ook in de huurdersgids in de woning.",
-                    "list": {
-                        "respect": "Met respect voor de omgeving zijn de ‘rustige uren’ tussen 23:00 en 7:00 uur.",
-                        "pets": "Huisdieren zijn niet toegestaan.",
-                        "smoke-free": "Dit is een rookvrije accommodatie, het is verboden om binnen te roken of te vapen.",
-                        "party": "Feesten, evenementen en grote bijeenkomsten zijn niet toegestaan.",
-                        "groups": "Groepen jongeren, studenten en sportteams zijn niet toegestaan.",
-                        "visitors": "Bezoekers zijn overdag welkom, maar mogen niet blijven overnachten.",
-                        "trash": "Het afval dient gescheiden te worden en afgevoerd worden naar een nabijgelegen afval verzamelpunt.",
-                        "fire": "Vuurkorven, kampvuren, kaarsen en andere vormen van open vuur zijn rondom de woning en op het hele terrein verboden.",
-                        "max": "Het maximale aantal bewoners is 8 personen."
-                    }
-                },
-                "parking": {
-                    "header": "Parkeren",
-                    "list": {
-                        "places": "Er zijn parkeerplaatsen voor meerdere auto’s",
-                        "charging": "Er is een laadunit aanwezig voor hybride en volledig elektrische en auto’s",
-                        "loading-cable": "Laadkabel 8 meter lengte, aansluiting type 2."
-                    }
-                }
-            }
-        },
-        "book-now": {
-            "header": {
-                "tarif-available": "Tarieven & Beschikbaarheid",
-                "available": "Beschikbaarheid - 2026"
-            },
-            "sub-header": {
-                "tarif-available": "Prijzen per periode inclusief verblijfsopties"
-            },
-            "info-card": {
-                "booking": {
-                    "header": "Boekingen",
-                    "content": "Voor het maken van een reservering of voor specifieke vragen over de woning, kunt u gebruikmaken van het contactformulier op de website van Agence Sud'Arrange.",
-                    "link": "Klik hier om naar het contactformulier te gaan"
-                }
-            },
-            "periods": {
-                "columns": {
-                    "period": "Periode",
-                    "per-week": "Per Week",
-                    "mid-week": "Midweek",
-                    "night": "Nacht",
-                    "weekend": "Weekend",
-                    "min-stay": "Min. verblijf"
-                },
-                "extra-cost": {
-                    "header": "Bijkomende kosten",
-                    "cost": {
-                        "deposit": "Borgsom",
-                        "end-cleaning": "Eindschoonmaak",
-                        "linnen": "Linnengoed",
-                        "tourist-tax": "Toeristenbelasting",
-                        "per-night": "p.p. per nacht"
-                    }
-                },
-                "end-season": "einde seizoen",
-                "n-a": "n.v.t",
-                "nights": "nachten"
-            },
-            "status": {
-                "available": "Beschikbaar",
-                "option": "Optie",
-                "booked": "Bezet"
-            }
-        },
-        "contact": {
-            "info-card": {
-                "booking": {
-                    "header": "Voor vragen over de woning en boekingen",
-                    "content": "Agence Sud'Arrange {newline} Telefoon : + 33 658 31 66 63 {newline} {mailto} {newline} Contactformulier {form}",
-                    "form": "klik hier"
-                }
-            }
+        "outside-pool": {
+          "header": "Buitenleven & Zwembad",
+          "content": "De woning ligt op een prachtig perceel van circa 4.000 m², volledig omheind en bereikbaar via een elektrische toegangspoort. De tuin biedt volop privacy en meerdere terrassen, zodat u op elk moment van de dag kunt kiezen tussen zon en schaduw. {newline} Het royale vernieuwde zwembad (ca. 40 m²) ligt op het zuiden en vormt het centrale punt van de tuin. Hier geniet u van lange zomerdagen met uitzicht over de natuur. Daarnaast beschikt de woning over een volledig uitgerust poolhouse met:",
+          "footer": "Er is bovendien ruime parkeergelegenheid voor meerdere auto's op eigen terrein, met laadvoorziening voor EV’s."
         }
+      },
+      "groundLevelList": {
+        "header": "Begane grond/Entree niveau",
+        "royal-kitchen": "Royale en compleet ingerichte woonkeuken",
+        "open-dining": "Open eetkamer",
+        "sitting-area": "Sfeervolle zitkamer op split-level"
+      },
+      "lowerLevelList": {
+        "header": "Benedenverdieping",
+        "master-bedroom": "Master bedroom met badkamer en-suite (inloopdouche, dubbele wastafel en toilet)",
+        "laundry": "Was-/bergruimte (met o.a: wasmachine, vriezer, strijkplank en ijzer, stofzuiger)"
+      },
+      "upperLevelList": {
+        "header": "Bovenverdieping",
+        "bedrooms": "3 ruime slaapkamers",
+        "bathrooms": "Tweede badkamer (inloopdouche, dubbele wastafel en toilet)",
+        "toilet": "Overloop met apart toilet"
+      },
+      "poolList": {
+        "kitchen": "Keuken (Aanrecht,4-pits kookplaat en koelkast)",
+        "shower-toilet": "Douche en toilet",
+        "plastic-tableware": "Servies (kunststof) voor gebruik in de tuin en bij het zwembad",
+        "sport-play": "Meerdere sport en spel artikelen",
+        "royal-bbq": "Royale gasbarbecue"
+      },
+      "houseList": {
+        "header": "Ideaal voor je verblijf",
+        "type": "Vrijstaande woning",
+        "private-pool": "Privé zwembad",
+        "poolhouse": "Poolhouse met keuken en sanitair",
+        "bedrooms": "4 slaapkamers",
+        "bathrooms": "2 moderne badkamers",
+        "kitchen": "Royale compleet ingerichte keuken",
+        "non-smoking": "Rookvrij huis",
+        "bbq": "BBQ / Buitenkeuken",
+        "terraces": "Meerdere terrassen",
+        "gated-property": "Volledig omheind terrein met elektrische toegangspoort",
+        "parking": "Parkeren op eigen terrein met laadvoorziening voor EV's",
+        "location": "Rustige landelijke ligging met uitzicht"
+      },
+      "kitchenList": {
+        "header": "Keuken",
+        "stovetop": "Kookplaat (4-pits inductie)",
+        "oven": "Oven (hete lucht)",
+        "fridge-freezer": "Koel-/vriescombinatie",
+        "dishwasher": "Vaatwasser",
+        "microwave": "Magnetron",
+        "coffee-machine": "Koffiezetapparaat",
+        "espresso-machine": "Espressomachine (Nespresso cups)",
+        "kettle": "Elektrische waterkoker",
+        "utensils": "Keukengerei",
+        "tableware": "Servies & Bestek"
+      },
+      "livingRoomList": {
+        "header": "Woonkamer",
+        "layout": "Verdeeld over 2 niveaus (split level)",
+        "sofas": "2 banken",
+        "loveseats": "2 love-seats",
+        "dining-table": "Eettafel met 8 stoelen",
+        "flooring": "Plavuizen vloer"
+      },
+      "internetTvList": {
+        "header": "Internet & TV",
+        "wifi": "Wifi is beschikbaar in de gehele woning",
+        "internet": "Breedband/glasvezel",
+        "tv": "Smart TV (Chromecast aanwezig)"
+      },
+      "pool2List": {
+        "header": "Zwembad",
+        "pool": "Seizoensgebonden privé buitenzwembad",
+        "sunbeds": "Strandstoelen (6)",
+        "chairs": "Fauteuils (2)",
+        "side-tables": "Bijzettafeltjes",
+        "parasols": "Parasols (2)",
+        "towels": "Badhanddoeken"
+      },
+      "parkingList": {
+        "header": "Parkeren",
+        "private-parking": "Parkeergelegenheid op eigen terrein",
+        "ev-charging": "Laadvoorziening voor EV's"
+      },
+      "elseList": {
+        "header": "Overig",
+        "laundry-room": "Aparte wasruimte op benedenverdieping (wasmachine, vriezer, strijkplank/-ijzer, was rekjes)",
+        "baby-amenities": "Kinderbedje (60x100cm) en kinderstoel aanwezig",
+        "no-smoking": "Niet roken in de gehele accommodatie",
+        "entertainment": "Boeken en Spelletjes aanwezig"
+      },
+      "bedroomList": {
+        "header": "Slaapkamers",
+        "bedroom-ground-floor": "Slaapkamer beneden verdieping, 2-persoons bed",
+        "bedroom1": "Slaapkamer 1 boven, 2-persoonsbed",
+        "bedroom2": "Slaapkamer 2 boven, 2-persoonsbed",
+        "bedroom3": "Slaapkamer 3 boven, 2-persoonsbed",
+        "linens": "Beddengoed",
+        "wardrobes": "Alle kamers hebben een kledingkast",
+        "nightstands": "Dubbele nachtkastjes bij de bedden",
+        "flooring": "Houten vloeren"
+      },
+      "bathroomList": {
+        "header": "Badkamers",
+        "modern": "Recent gemoderniseerd",
+        "shower": "Inloopdouche",
+        "double-sink": "Dubbele wastafel",
+        "toilet": "WC",
+        "towels": "Handdoeken"
+      },
+      "outsideList": {
+        "header": "Buiten",
+        "poolhouse": "Pool house met keuken, douche en toilet",
+        "terraces": "Meerdere terrassen",
+        "kitchen-terrace": "Verhoogd terras bij keuken met eettafel en stoelen, elektrisch zonnescherm",
+        "rear-terrace": "Terras aan woonkamer (achterzijde)",
+        "front-veranda": "Veranda aan woonkamer (voorzijde)",
+        "poolside-terrace": "Terras naast pool house met bankjes, fauteuils en grote parasol",
+        "garden": "Tuin (gras & bos)",
+        "bbq": "Grote BBQ (gas)",
+        "view": "Uitzicht op tuin, zwembad, landerijen en heuvelachtig landschap"
+      }
     },
-    "footer": {
-        "slogan": "Uw luxe toevluchtsoord in het hart van de Lot-et-Garonne.",
-        "header": {
-            "menu": "Pagina menu",
-            "location": "Locatie",
-            "information": "Informatie",
-            "reserve": "Reserveren",
-            "weather": "Het weer in Fumel"
+    "photos": {
+      "categories": {
+        "header": "Categorieën",
+        "outside-pool": "Buiten & Zwembad",
+        "living-space": "Woonruimte",
+        "kitchen": "Keuken",
+        "bedrooms": "Slaapkamers",
+        "bathrooms": "Badkamers",
+        "poolhouse": "Poolhouse",
+        "area": "Omgeving"
+      },
+      "no-images": "Geen afbeeldingen voor deze categorie"
+    },
+    "area": {
+      "info-card": {
+        "the-area": {
+          "links-header": "Websites met informatie over Fumel en omgeving:",
+          "footer": "In de woning vindt u een informatiemap met vele suggesties voor uitstapjes en activiteiten",
+          "content": "Fumel ligt in het hart van het zuidwesten van Frankrijk, op de grens van de departementen Lot-et-Garonne en de Dordogne, een regio die bekendstaat om haar rust, ruimte en authentieke Franse sfeer. Hier vindt u glooiende heuvels, zonovergoten wijngaarden, middeleeuwse bastide-dorpen en uitgestrekte natuur, ver weg van het massatoerisme maar met alles binnen handbereik voor een heerlijke vakantie. {newline} De omgeving van Fumel is ideaal voor liefhebbers van wandelen en fietsen. Kleine landweggetjes voeren langs zonnebloemvelden, pruimenboomgaarden en charmante dorpen met gezellige markten en terrasjes. In de zomer bruist de regio van de brocantes, avondmarkten en lokale festivals waar u kunt genieten van streekproducten, muziek en de ontspannen Franse levensstijl. {newline} Ook voor cultuurliefhebbers is er volop te ontdekken. In de directe omgeving liggen prachtige bastide-dorpen met smalle straatjes, historische pleinen en indrukwekkende kastelen. Bezoek lokale markten met foie gras, walnoten, kazen en wijnen uit de regio, of strijk neer op een terras voor een lange lunch in de zon. {newline} De rivier de Lot biedt volop mogelijkheden voor recreatie: kanoën, vissen of simpelweg ontspannen aan het water. Daarnaast zijn er diverse golfbanen, wijndomeinen en schilderachtige routes voor dagtochten door de departementen Lot-et-Garonne, Dordogne en de Lot. {newline} {links} {newLine} {footer}"
+        },
+        "chateau-de-bonaguil": {
+          "header": "Chateau de Bonaguil",
+          "content": "Kasteel Bonaguil ligt op slechts 5 minuten van Le Petit Wren. Vanaf de top van een rotsachtige uitloper domineert dit kasteel met middeleeuwse dorp de vallei. Het vormt een uniek combinatie van indrukwekkende proporties en in een opmerkelijk goede staat. Tijdens een rondleiding of op eigen gelegenheid zal Bonaguil u onderdompelen in de middeleeuwse geschiedenis."
+        },
+        "monpazier": {
+          "header": "Monpazier",
+          "content": "Authentiek bastide-dorp met straatjes in het karakteristieke rasterpatroon. Het stadsplein ligt in het midden van de bastide en herbergt een prachtig gerestaureerde overdekte markt. Monpazier is een Grand National Site van Frankrijk en een Le Plus Beaux de Villages de France, het heeft 32 historische monumenten."
+        },
+        "chateau-de-biron": {
+          "header": "Chateau de Biron",
+          "content": "Dit kasteel is een historisch monument. Bijna 1000 jaar geschiedenis heeft deze stenen reus gevormd en biedt een unieke mix van middeleeuwse, renaissance en klassieke architectuur. Animaties, kunsttentoonstellingen, shows en andere feestelijke evenementen zijn geweldige gelegenheden om door de poorten van dit kasteel te gaan."
+        },
+        "rocamadour": {
+          "header": "Rocamadour",
+          "content": "Net ten zuidwesten van Padirac, in het regionale natuurpark Causses du Quercy, ligt het heilige dorp Rocamadour. Het is zowel een plek vol legendes als geschiedenis waar oude stenen huizen, majestueuze torens en een kasteel van de klif naar de Alzou-kloof lopen. Het dorp is niet alleen een van de belangrijkste toeristische bestemmingen van Frankrijk, het staat ook op de werelderfgoedlijst van UNESCO."
+        },
+        "gouffre-de-padirac": {
+          "header": "Gouffre de Padirac",
+          "content": "Een Ondergronds Avontuur. Je begint je bezoek met een afdaling naar het hart van de 75 meter diepe grot. Vervolgens dwaal je door de ondergrondse galerijen, 103 meter onder de grond, naar de steiger, waar je een boottocht maakt onder begeleiding van een gids. Aan het andere uiteinde van de rivier meer je aan en vervolg je je reis naar het Lac des Gours en de ongelooflijke Salle du Grand Dôme."
+        },
+        "cahors": {
+          "header": "Cahors",
+          "content": "Een middeleeuws stadje gelegen in een bocht van de Lot. Deze stad is misschien niet zo bekend bij mensen buiten de Occitanie, maar het is de perfecte dagtocht als je een prachtige historische stad op het Franse platteland wilt bezoeken. Cahors zal bezoekers zeker charmeren met zijn krijtachtige kliffen, fonteinen, kronkelende rivier en beroemde gastronomie."
+        },
+        "chateau-de-chambert": {
+          "header": "Château de Chambert",
+          "content": "Is een toonaangevende Malbec Wijngaard, gelegen op een kalksteenplateau kijkt Chambert uit over de vallei van de Lot. De wijngaarden zijn hoog rond het kasteel aangeplant en geïsoleerd van de omliggende wijngaarden en de stedelijke wereld. Geniet van heerlijk eten in Restaurant Holodeck (lunch en diner) of in The Everest Wine & Tapas bar (lunch)."
+        },
+        "grotte-de-rouffignac": {
+          "header": "Grotte de Rouffignac",
+          "content": "Gelegen in het midden van de Zwarte Perigord, is Rouffignac een enorme grot. Je vindt meer dan 250 dierfiguren verspreid in dit ondergrondse doolhof. Aan boord van een elektrische trein duik je in de mysterieuze grottenwereld en ontdek je de kunst van de prehistorische jager-verzamelaars."
+        },
+        "villeneuve-sur-lot": {
+          "header": "Villeneuve-sur-Lot",
+          "content": "Deze historische bastidestad werd in 1253 gesticht door Alphonse de Potiers. Tegenwoordig is het een veel grotere stad, die het historische centrum omringt, maar ondanks dat zijn er nog steeds veel interessante historische kenmerken te ontdekken in de stad."
         }
+      }
+    },
+    "practical-information": {
+      "hero": {
+        "header": "Praktische Informatie"
+      },
+      "info-card": {
+        "arrival-departure": {
+          "header": "Aankomst & Vertrek",
+          "arrival": {
+            "header": "Aankomst vanaf 16:00 uur",
+            "content": "U kunt uw aankomst vanaf 16:00 flexibel plannen zonder afhankelijk te zijn van iemand die u toegang geeft tot de woning, u ontvangt de details na de boeking."
+          },
+          "departure": {
+            "header": "Vertrek uiterlijk 10:00 uur",
+            "content": "Ook het vertrek is zelfstandig, gedetailleerde informatie vindt u in de huurdersgids in de woning."
+          }
+        },
+        "travel": {
+          "header": "De reis naar Le Petit Wren",
+          "content": "Onze gasten komen in de meeste gevallen per auto, onderstaand wat meer informatie over de route en reistijden. Daarnaast kunt u ook gebruik maken van een van de drie vliegvelden die rondom Fumel liggen"
+        },
+        "car": {
+          "header": "Per auto",
+          "intro": "Routes vanuit Nederland en de UK gaan in de meeste gevallen via Parijs en/of Orleans",
+          "routes": {
+            "paris": {
+              "header": "Parijs – Fumel",
+              "distance": "~ 600km",
+              "time": "~ 6u 30m"
+            },
+            "orleans": {
+              "header": "Orleans – Fumel",
+              "distance": "~ 500km",
+              "time": "~ 5u 30m"
+            },
+            "utrecht": {
+              "header": "Utrecht – Fumel",
+              "distance": "~ 1100km",
+              "time": "~ 11u 30m"
+            }
+          },
+          "times": {
+            "normal": "(bij normaal verkeer)"
+          },
+          "extra": {
+            "header": "Route A20, afslag 57 – Fumel:",
+            "content": "Als u de snelweg verlaat heeft u nog ca 1 uur reistijd tot Le Petit Wren. Niet alle navigatiesystemen adviseren dezelfde route, maar deze routes bevatten vrijwel altijd meerdere smalle (mooie) weggetjes. Mocht u wat comfortabeler willen rijden volg dan de D820 naar Cahors en dan in Cahors de D811 via Prayssac tot Fumel. Deze route is wat langer, maar de wegen zijn breder en overzichtelijker."
+          }
+        },
+        "flying": {
+          "header": "Vliegen",
+          "airports": {
+            "bergerac": "Bergerac (1u)",
+            "toulouse": "Toulouse (1u 40m)",
+            "bordeaux": "Bordeaux (2u 10m)"
+          }
+        },
+        "pool": {
+          "header": "Het zwembad & Poolhouse",
+          "content": "U heeft het exclusief gebruik van het zwembad tijdens uw verblijf, zie de huurdersgids in de woning voor meer gedetailleerde informatie."
+        },
+        "swimming-pool": {
+          "header": "Zwembad",
+          "list": {
+            "guarded": "Het zwembad is niet bewaakt, het is de verantwoordelijkheid van de huurders om voor hun eigen veiligheid en die van hun kinderen te zorgen. Als eigenaar of vertegenwoordiger kunnen wij niet aansprakelijk worden gesteld voor ongevallen die zich voordoen tijdens het gebruik van het zwembad.",
+            "kids": "Kinderen mogen het zwembad alleen onder toezicht van een volwassene gebruiken.",
+            "glasses": "Het gebruik van glaswerk of serviesgoed van het huis rond het zwembad is verboden.",
+            "salt-electrolysis-system": "Het zwembad maakt gebruik van een automatisch zout-elektrolyse systeem, dit systeem zorgt permanent voor een goede kwaliteit zwemwater zonder de onaangename neveneffecten van chloorwater."
+          }
+        },
+        "poolhouse": {
+          "header": "Poolhouse",
+          "list": {
+            "douche-toilet": "Hier heeft u de beschikking over een douche, toilet en de ‘zomerkeuken’ met aanrecht, 4-pits gas kookplaat en koelkast.",
+            "cutterly": "Er zijn een servies en glazen van kunststof voor gebruik buiten.",
+            "sport-games": "En er liggen verschillende sport- /spel en opblaas artikelen in het wandrek."
+          }
+        },
+        "environment-energy": {
+          "header": "Milieu & Energie",
+          "list": {
+            "solar-panels": "Zonnepanelen: op het dak van de woning liggen 12 zonnepanelen.",
+            "ev": "EV-laadvoorziening: er is een laadunit aanwezig voor elektrische auto’s.",
+            "drinking-water": "Drinkwater: er is een wateronthardingssysteem aanwezig dat ook een waterfilter heeft waardoor er schoon drinkwater zonder bijsmaak (chloor) uit de kraan komt. Je hoeft dus geen flessen water te kopen.",
+            "waste-separation": "Afvalscheiding: voor de afvalscheiding zijn aparte vuilnisbakken aanwezig, het afval dient naar een nabijgelegen afvalinzamelpunt gebracht te worden"
+          }
+        },
+        "barbecue": {
+          "header": "Barbecue",
+          "content": "Bij het Poolhouse staat een royale Weber gasbarbecue. Zie de gebruikersrichtlijnen in de huurdersgids, de gebruikershandleiding voor de barbecue en de gasfles ligt in het Poolhouse.",
+          "list": {
+            "bbq": "Alleen deze barbecue mag gebruikt worden, het is verboden een andere barbecue te gebruiken.",
+            "moved": "De barbecue mag niet worden verplaatst",
+            "check": "Check de werking van de gasdrukregelaar die op de gasfles zit, de werking kan afwijken van wat u thuis gewend bent. Sluit de gasfles altijd na gebruik."
+          }
+        },
+        "house-rules": {
+          "header": "Belangrijkste huisregels",
+          "content": "Om ervoor te zorgen dat alles goed verloopt tijdens uw verblijf hebben we een aantal regels opgesteld. U vindt deze informatie - meer gedetailleerd - ook in de huurdersgids in de woning.",
+          "list": {
+            "respect": "Met respect voor de omgeving zijn de ‘rustige uren’ tussen 23:00 en 7:00 uur.",
+            "pets": "Huisdieren zijn niet toegestaan.",
+            "smoke-free": "Dit is een rookvrije accommodatie, het is verboden om binnen te roken of te vapen.",
+            "party": "Feesten, evenementen en grote bijeenkomsten zijn niet toegestaan.",
+            "groups": "Groepen jongeren, studenten en sportteams zijn niet toegestaan.",
+            "visitors": "Bezoekers zijn overdag welkom, maar mogen niet blijven overnachten.",
+            "trash": "Het afval dient gescheiden te worden en afgevoerd worden naar een nabijgelegen afval verzamelpunt.",
+            "fire": "Vuurkorven, kampvuren, kaarsen en andere vormen van open vuur zijn rondom de woning en op het hele terrein verboden.",
+            "max": "Het maximale aantal bewoners is 8 personen."
+          }
+        },
+        "parking": {
+          "header": "Parkeren",
+          "list": {
+            "places": "Er zijn parkeerplaatsen voor meerdere auto’s",
+            "charging": "Er is een laadunit aanwezig voor hybride en volledig elektrische en auto’s",
+            "loading-cable": "Laadkabel 8 meter lengte, aansluiting type 2."
+          }
+        }
+      }
+    },
+    "book-now": {
+      "header": {
+        "tarif-available": "Tarieven & Beschikbaarheid",
+        "available": "Beschikbaarheid - 2026"
+      },
+      "sub-header": {
+        "tarif-available": "Prijzen per periode inclusief verblijfsopties"
+      },
+      "info-card": {
+        "booking": {
+          "header": "Boekingen",
+          "content": "Voor het maken van een reservering of voor specifieke vragen over de woning, kunt u gebruikmaken van het contactformulier op de website van Agence Sud'Arrange.",
+          "link": "Klik hier om naar het contactformulier te gaan"
+        }
+      },
+      "periods": {
+        "columns": {
+          "period": "Periode",
+          "per-week": "Per Week",
+          "mid-week": "Midweek",
+          "night": "Nacht",
+          "weekend": "Weekend",
+          "min-stay": "Min. verblijf"
+        },
+        "extra-cost": {
+          "header": "Bijkomende kosten",
+          "cost": {
+            "deposit": "Borgsom",
+            "end-cleaning": "Eindschoonmaak",
+            "linnen": "Linnengoed",
+            "tourist-tax": "Toeristenbelasting",
+            "per-night": "p.p. per nacht"
+          }
+        },
+        "end-season": "einde seizoen",
+        "n-a": "n.v.t",
+        "nights": "nachten"
+      },
+      "status": {
+        "available": "Beschikbaar",
+        "option": "Optie",
+        "booked": "Bezet"
+      }
+    },
+    "contact": {
+      "info-card": {
+        "booking": {
+          "header": "Voor vragen over de woning en boekingen",
+          "content": "Agence Sud'Arrange {newline} Telefoon : + 33 658 31 66 63 {newline} {mailto} {newline} Contactformulier {form}",
+          "form": "klik hier"
+        }
+      }
     }
+  },
+  "footer": {
+    "slogan": "Uw luxe toevluchtsoord in het hart van de Lot-et-Garonne.",
+    "header": {
+      "menu": "Pagina menu",
+      "location": "Locatie",
+      "information": "Informatie",
+      "reserve": "Reserveren",
+      "weather": "Het weer in Fumel"
+    }
+  }
 }

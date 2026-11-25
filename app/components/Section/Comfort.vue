@@ -33,7 +33,7 @@ const comfortList = [
           src="/images/huis/2-voorzijde-vanaf-pad.webp"
           class="w-80 h-80 object-cover rounded-full"
           alt="Le Petit Wren Exterior"
-        />
+        >
       </div>
 
       <div
@@ -45,7 +45,7 @@ const comfortList = [
           class="hidden desktop:flex flex text-white leading-tight text-center font-bold text-xl"
         >
           <template #newline>
-            <br />
+            <br >
           </template>
         </i18n-t>
 
@@ -65,7 +65,7 @@ const comfortList = [
           class="hidden desktop:flex flex text-slate-900 leading-tight text-center font-medium"
         >
           <template #newline>
-            <br />
+            <br >
           </template>
         </i18n-t>
 
@@ -85,7 +85,7 @@ const comfortList = [
           class="hidden desktop:flex flex text-slate-900 leading-tight text-center font-medium"
         >
           <template #newline>
-            <br />
+            <br >
           </template>
         </i18n-t>
 
@@ -121,7 +121,7 @@ const comfortList = [
           class="hidden desktop:flex flex text-slate-900 leading-tight text-center font-medium"
         >
           <template #newline>
-            <br />
+            <br >
           </template>
         </i18n-t>
 

@@ -24,7 +24,7 @@ withDefaults(defineProps<Props>(), {
 	    :src="imageSourceUrl"
       :alt="imageAltTextKey"
       class="absolute inset-0 w-full h-full object-cover scale-105"
-    />
+    >
 
 		<div class="relative z-10 text-white text-center px-4 max-w-4xl pt-10">
 			<h1

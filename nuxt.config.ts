@@ -17,7 +17,7 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxtjs/google-fonts",
     "@primevue/nuxt-module",
-    '@nuxtjs/device'
+    '@nuxtjs/device',
   ],
 
   imports: {

@@ -413,7 +413,7 @@ onUnmounted(() => {
               loading="lazy"
               alt="''"
               class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
-            />
+            >
 
             <div
               class="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center"
@@ -455,7 +455,7 @@ onUnmounted(() => {
             :src="slotProps.item.full"
             alt="''"
             class="md:max-w-[1250px] md:max-h-[90vh] object-contain shadow-xl"
-          />
+          >
         </template>
 
         <template #caption="slotProps">

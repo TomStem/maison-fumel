@@ -1,11 +1,6 @@
 <script setup>
-// Fumel, France coordinates
-const lat = 44.50;
-const lon = 0.97;
-
 const { data: weather, pending, error } = await useFetch(
-  `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&daily=temperature_2m_max,temperature_2m_min&timezone=auto`
-);
+'https://api.weatherapi.com/v1/forecast.json?key=59624a9c62a246e09c6180643221402&q=Fumel&days=1');
 </script>
 
 <template>
@@ -13,14 +8,14 @@ const { data: weather, pending, error } = await useFetch(
     <div v-if="pending">Loading weather...</div>
     <div v-else-if="error">Could not load weather.</div>
     <div v-else class="content">
-      <h3>Fumel, France</h3>
+      <h3>{{ weather.location.name }}, {{ weather.location.country }}</h3>
       <div class="temp">
-        {{ Math.round(weather.current_weather.temperature) }}°C
+        {{ Math.round(weather.current.temp_c) }}°C
       </div>
-      <p>{{ weather.current_weather.weathercode }} - Clear Sky</p>
+      <p>{{ weather.current.condition.text }}</p>
       <div class="range">
-        L: {{ Math.round(weather.daily.temperature_2m_min[0]) }}° 
-        H: {{ Math.round(weather.daily.temperature_2m_max[0]) }}°
+        L: {{ Math.round(weather.forecast.forecastday[0].day.mintemp_c) }}° 
+        H: {{ Math.round(weather.forecast.forecastday[0].day.maxtemp_c) }}°
       </div>
     </div>
   </div>

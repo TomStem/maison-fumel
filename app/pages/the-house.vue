@@ -244,8 +244,8 @@ const rightCol = [
           class="text-slate-900 leading-relaxed"
         >
           <template #newline>
-            <br />
-            <br />
+            <br >
+            <br >
           </template>
         </i18n-t>
       </InfoCard>
@@ -350,8 +350,8 @@ const rightCol = [
             class="text-slate-900 leading-relaxed"
           >
             <template #newline>
-              <br />
-              <br />
+              <br >
+              <br >
             </template>
           </i18n-t>
 

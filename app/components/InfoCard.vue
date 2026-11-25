@@ -20,7 +20,7 @@ withDefaults(defineProps<Props>(), {
 
 <template>
   <div
-    class="grid shadow-xl rounded-3xl overflow-hidden mb-8"
+    class="grid shadow-xl rounded-3xl overflow-hidden"
     :class="[
       backgroundColorClass,
       imageSourceUrl
@@ -41,7 +41,7 @@ withDefaults(defineProps<Props>(), {
         :src="imageSourceUrl"
         :alt="imageAltTextKey"
         class="w-full h-full object-cover"
-      />
+      >
     </div>
 
     <div class="flex flex-col justify-center p-8 desktop:p-12">

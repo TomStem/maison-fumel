@@ -1,436 +1,436 @@
 {
-    "navigation": {
-        "home": "Home",
-        "the-house": "The House",
-        "photos": "Photos",
-        "area": "Area",
-        "practical-information": "Practical information",
-        "book-now": "Book Now",
-        "contact": "Contact"
-    },
-    "page": {
-        "home": {
-            "hero": {
-                "header": "Peace, space and comfort in the heart of Southwest France",
-                "slogan": "Luxury holiday villa with private pool",
-                "image-description": "Photo of swimming pool and back of house"
-            },
-            "comfort-amenities": {
-                "header": "Comfort & Amenities",
-                "sub-header": "The property is fully equipped for a care-free holiday:",
-                "circle": {
-                    "1": "Le Petit Wren {newline} Fumel",
-                    "2": "Private pool, spacious garden with terraces and {newline} views",
-                    "3": "Comfortable {newline} outdoor living, {newline} Peace & Space",
-                    "4": "Vignoble de Cahors wine region, markets with local specialties",
-                    "5": "Beautiful Bastide villages & impressive castles",
-                    "6": "Cycling,{newline}Walking, {newline}Canoeing and {newline} various {newline}golf courses"
-                },
-                "list": {
-                    "private-pool": "Private swimming pool",
-                    "poolhouse-kitchen": "Pool house with kitchen, shower & toilet",
-                    "badrooms": "4 bedrooms",
-                    "bathrooms": "2 bathrooms",
-                    "kitchen": "Spacious and fully equipped kitchen-diner",
-                    "bbq-kitchen": "BBQ / outdoor kitchen",
-                    "terraces": "Multiple terraces",
-                    "terrain": "Fully enclosed grounds with entrance gate",
-                    "parking": "On-site parking",
-                    "location": "Quiet rural location"
-                }
-            },
-            "info-card": {
-                "petit-wren": {
-                    "header": "Le Petit Wren",
-                    "content": "A charming and highly atmospheric holiday home, perfectly maintained, recently fully modernised and equipped with all modern conveniences. The house is situated on a generous, fully enclosed plot of approximately 4,000 m² and offers privacy, peace and beautiful views over the rural surroundings of Fumel. With four bedrooms, two bathrooms, a large (recently renovated) swimming pool and a fully equipped pool house, this is the ideal place for a relaxing holiday with family or friends."
-                },
-                "region": {
-                    "header": "The Region",
-                    "content": "{place} is located on the border of the {region1} and {region2} departments, a region renowned for its peace, space, and authentic French atmosphere. Here you will find rolling hills, sun-drenched vineyards, medieval bastide villages, and vast nature, far from mass tourism but with everything within reach for a wonderful holiday. {newline} The Fumel area is ideal for lovers of walking and cycling, culture, wine estates, and local markets—in short, the relaxed French lifestyle. Small country lanes lead past sunflower fields, orchards, stunning (bastide) villages, and impressive castles."
-                }
-            },
-            "photos": {
-                "header": "An impression of the villa",
-                "view-all": "View all photos"
-            }
+  "navigation": {
+    "home": "Home",
+    "the-house": "The House",
+    "photos": "Photos",
+    "area": "Area",
+    "practical-information": "Practical information",
+    "book-now": "Book Now",
+    "contact": "Contact"
+  },
+  "page": {
+    "home": {
+      "hero": {
+        "header": "Peace, space and comfort in the heart of Southwest France",
+        "slogan": "Luxury holiday villa with private pool",
+        "image-description": "Photo of swimming pool and back of house"
+      },
+      "comfort-amenities": {
+        "header": "Comfort & Amenities",
+        "sub-header": "The property is fully equipped for a care-free holiday:",
+        "circle": {
+          "1": "Le Petit Wren {newline} Fumel",
+          "2": "Private pool, spacious garden with terraces and {newline} views",
+          "3": "Comfortable {newline} outdoor living, {newline} Peace & Space",
+          "4": "Vignoble de Cahors wine region, markets with local specialties",
+          "5": "Beautiful Bastide villages & impressive castles",
+          "6": "Cycling,{newline}Walking, {newline}Canoeing and {newline} various {newline}golf courses"
         },
+        "list": {
+          "private-pool": "Private swimming pool",
+          "poolhouse-kitchen": "Pool house with kitchen, shower & toilet",
+          "badrooms": "4 bedrooms",
+          "bathrooms": "2 bathrooms",
+          "kitchen": "Spacious and fully equipped kitchen-diner",
+          "bbq-kitchen": "BBQ / outdoor kitchen",
+          "terraces": "Multiple terraces",
+          "terrain": "Fully enclosed grounds with entrance gate",
+          "parking": "On-site parking",
+          "location": "Quiet rural location"
+        }
+      },
+      "info-card": {
+        "petit-wren": {
+          "header": "Le Petit Wren",
+          "content": "A charming and highly atmospheric holiday home, perfectly maintained, recently fully modernised and equipped with all modern conveniences. The house is situated on a generous, fully enclosed plot of approximately 4,000 m² and offers privacy, peace and beautiful views over the rural surroundings of Fumel. With four bedrooms, two bathrooms, a large (recently renovated) swimming pool and a fully equipped pool house, this is the ideal place for a relaxing holiday with family or friends."
+        },
+        "region": {
+          "header": "The Region",
+          "content": "{place} is located on the border of the {region1} and {region2} departments, a region renowned for its peace, space, and authentic French atmosphere. Here you will find rolling hills, sun-drenched vineyards, medieval bastide villages, and vast nature, far from mass tourism but with everything within reach for a wonderful holiday. {newline} The Fumel area is ideal for lovers of walking and cycling, culture, wine estates, and local markets—in short, the relaxed French lifestyle. Small country lanes lead past sunflower fields, orchards, stunning (bastide) villages, and impressive castles."
+        }
+      },
+      "photos": {
+        "header": "An impression of the villa",
+        "view-all": "View all photos"
+      }
+    },
+    "the-house": {
+      "hero": {
+        "header": "Comfortable and Atmospheric"
+      },
+      "info-card": {
         "the-house": {
-            "hero": {
-                "header": "Comfortable and Atmospheric"
-            },
-            "info-card": {
-                "the-house": {
-                    "header": "The House",
-                    "content": "This charming property combines comfort with a practical and spacious layout. The house has been recently modernised, while preserving its warm and authentic atmosphere. The spacious kitchen-diner forms the heart of the home and is openly connected to the dining room and the inviting sitting room, spread over two levels. This creates a bright and cosy living space where indoor and outdoor living merge effortlessly. From every room, you can step straight out into the front or back garden. {newline} On the lower floor, you will find the spacious master bedroom with an en-suite bathroom, ideal for extra comfort and privacy. This bedroom has its own terrace at the front of the house, where you can start the day beautifully in the morning sun. A separate laundry room is also located on this level. The upper floor houses three comfortable bedrooms and a second bathroom."
-                },
-                "niveaus": {
-                    "content": "The house has 3 levels: from the floor with the entrance, kitchen, and dining/living room, you go half a floor down to the master bedroom or half a floor up to the other bedrooms."
-                },
-                "outside-pool": {
-                    "header": "Outdoor Living & Swimming Pool",
-                    "content": "The house is set on a beautiful plot of approximately 4,000 m², fully enclosed and accessible via an electric entrance gate. The garden offers plenty of privacy and multiple terraces, allowing you to choose between sun and shade at any time of day. {newline} The large, renovated swimming pool (approx. 40 m²) is south-facing and serves as the central point of the garden. Here, you can enjoy long summer days with views over nature. Additionally, the property features a fully equipped pool house with:",
-                    "footer": "Furthermore, there is ample private parking for several cars on-site, including charging facilities for EVs."
-                }
-            },
-            "groundLevelList": {
-                "header": "Ground Floor / Entrance Level",
-                "royal-kitchen": "Spacious and fully equipped kitchen-diner",
-                "open-dining": "Open-plan dining room",
-                "sitting-area": "Atmospheric sitting room on split-level"
-            },
-            "lowerLevelList": {
-                "header": "Lower Floor",
-                "master-bedroom": "Master bedroom with en-suite bathroom (walk-in shower, double washbasin and toilet)",
-                "laundry": "Laundry/storage room (including washing machine, freezer, ironing board and iron, vacuum cleaner)"
-            },
-            "upperLevelList": {
-                "header": "Upper Floor",
-                "bedrooms": "3 spacious bedrooms",
-                "bathrooms": "Second bathroom  (walk-in shower, double washbasin and toilet)",
-                "toilet": "Landing with separate toilet"
-            },
-            "poolList": {
-                "kitchen": "Kitchen (Sink, 4-burner hob and fridge)",
-                "shower-toilet": "Shower and toilet",
-                "plastic-tableware": "Plastic tableware for use in the garden and by the pool",
-                "sport-play": "Multiple sports and games items",
-                "royal-bbq": "Large gas barbecue"
-            },
-            "houseList": {
-                "header": "Ideal for your stay",
-                "type": "Detached house",
-                "private-pool": "Private swimming pool",
-                "poolhouse": "Pool house with kitchen and facilities",
-                "bedrooms": "4 bedrooms",
-                "bathrooms": "2 modern bathrooms",
-                "kitchen": "Large, fully equipped kitchen",
-                "non-smoking": "Non-smoking house",
-                "bbq": "BBQ / Outdoor kitchen",
-                "terraces": "Multiple terraces",
-                "gated-property": "Fully enclosed grounds with electric entrance gate",
-                "parking": "On-site parking with charging facilities for EVs",
-                "location": "Quiet rural location with views"
-            },
-            "kitchenList": {
-                "header": "Kitchen",
-                "stovetop": "Hob (4-burner induction)",
-                "oven": "Oven (fan-assisted)",
-                "fridge-freezer": "Fridge-freezer",
-                "dishwasher": "Dishwasher",
-                "microwave": "Microwave",
-                "coffee-machine": "Coffee machine",
-                "espresso-machine": "Espresso machine (Nespresso pods)",
-                "kettle": "Electric kettle",
-                "utensils": "Kitchen utensils",
-                "tableware": "Crockery & Cutlery"
-            },
-            "livingRoomList": {
-                "header": "Living Room",
-                "layout": "Spread over 2 levels (split level)",
-                "sofas": "2 sofas",
-                "loveseats": "2 love-seats",
-                "dining-table": "Dining table with 8 chairs",
-                "flooring": "Tiled floor"
-            },
-            "internetTvList": {
-                "header": "Internet & TV",
-                "wifi": "Wi-Fi available throughout the house",
-                "internet": "Broadband/Fibre-optic",
-                "tv": "Smart TV (Chromecast available)"
-            },
-            "pool2List": {
-                "header": "Swimming Pool",
-                "pool": "Seasonal private outdoor pool",
-                "sunbeds": "Sun loungers (6)",
-                "chairs": "Armchairs (2)",
-                "side-tables": "Side tables",
-                "parasols": "Parasols (2)",
-                "towels": "Pool towels"
-            },
-            "parkingList": {
-                "header": "Parking",
-                "private-parking": "Private on-site parking",
-                "ev-charging": "Charging facility for electric cars"
-            },
-            "elseList": {
-                "header": "Other",
-                "laundry-room": "Separate laundry room on lower floor (washing machine, freezer, ironing board/iron, drying racks)",
-                "baby-amenities": "Cot (60x100cm) and high chair available",
-                "no-smoking": "No smoking throughout the accommodation",
-                "entertainment": "Books and Games available"
-            },
-            "bedroomList": {
-                "header": "Bedrooms",
-                "bedroom-ground-floor": "Lower floor bedroom, double bed",
-                "bedroom1": "Bedroom 1 upstairs, double bed",
-                "bedroom2": "Bedroom 2 upstairs, double bed",
-                "bedroom3": "Bedroom 3 upstairs, double bed",
-                "linens": "Bed linen",
-                "wardrobes": "All rooms have a wardrobe",
-                "nightstands": "Twin bedside tables by the beds",
-                "flooring": "Wooden floors"
-            },
-            "bathroomList": {
-                "header": "Bathrooms",
-                "modern": "Recently modernised",
-                "shower": "Walk-in shower",
-                "double-sink": "Double washbasin",
-                "toilet": "WC",
-                "towels": "Towels"
-            },
-            "outsideList": {
-                "header": "Outside",
-                "poolhouse": "Pool house with kitchen, shower and toilet",
-                "terraces": "Multiple terraces",
-                "kitchen-terrace": "Raised terrace off kitchen with dining table and chairs, electric awning",
-                "rear-terrace": "Terrace off living room (rear)",
-                "front-veranda": "Veranda off living room (front)",
-                "poolside-terrace": "Terrace next to pool house with benches, armchairs and large parasol",
-                "garden": "Garden (lawn & woods)",
-                "bbq": "Large BBQ (gas)",
-                "view": "Views of garden, pool, fields and hilly landscape"
-            }
+          "header": "The House",
+          "content": "This charming property combines comfort with a practical and spacious layout. The house has been recently modernised, while preserving its warm and authentic atmosphere. The spacious kitchen-diner forms the heart of the home and is openly connected to the dining room and the inviting sitting room, spread over two levels. This creates a bright and cosy living space where indoor and outdoor living merge effortlessly. From every room, you can step straight out into the front or back garden. {newline} On the lower floor, you will find the spacious master bedroom with an en-suite bathroom, ideal for extra comfort and privacy. This bedroom has its own terrace at the front of the house, where you can start the day beautifully in the morning sun. A separate laundry room is also located on this level. The upper floor houses three comfortable bedrooms and a second bathroom."
         },
-        "photos": {
-            "categories": {
-                "header": "Categories",
-                "outside-pool": "Outside & Swimming Pool",
-                "living-space": "Living Area",
-                "kitchen": "Kitchen",
-                "bedrooms": "Bedrooms",
-                "bathrooms": "Bathrooms",
-                "poolhouse": "Pool house",
-                "area": "Surroundings"
-            },
-            "no-images": "No images found for this category"
+        "niveaus": {
+          "content": "The house has 3 levels: from the floor with the entrance, kitchen, and dining/living room, you go half a floor down to the master bedroom or half a floor up to the other bedrooms."
         },
-        "area": {
-            "info-card": {
-                "the-area": {
-                    "links-header": "Websites with information about Fumel and the surrounding area:",
-                    "footer": "Inside the property, you will find an information folder containing many suggestions for trips and activities",
-                    "content": "Fumel is located in the heart of Southwest France, on the border of the Lot-et-Garonne and Dordogne departments—a region renowned for its peace, space, and authentic French atmosphere. Here you will find rolling hills, sun-drenched vineyards, medieval bastide villages, and vast nature, far from mass tourism but with everything within reach for a wonderful holiday. {newline} The Fumel area is ideal for walking and cycling enthusiasts. Small country lanes lead past sunflower fields, plum orchards, and charming villages with inviting markets and terraces. In summer, the region comes alive with antique fairs (brocantes), evening markets, and local festivals where you can enjoy regional products, music, and the relaxed French lifestyle. {newline} Culture lovers will also find plenty to explore. In the immediate vicinity lie beautiful bastide villages with narrow streets, historic squares, and impressive castles. Visit local markets featuring foie gras, walnuts, cheeses, and regional wines, or settle onto a terrace for a long lunch in the sun. {newline} The River Lot offers plenty of recreational opportunities: canoeing, fishing, or simply relaxing by the water. Additionally, there are several golf courses, wine estates, and scenic routes for day trips through the Lot-et-Garonne, Dordogne, and Lot departments. {newline} {links} {newLine} {footer}"
-                },
-                "chateau-de-bonaguil": {
-                    "header": "Château de Bonaguil",
-                    "content": "Château de Bonaguil is located just 5 minutes from Le Petit Wren. From the top of a rocky outcrop, this castle and its medieval village dominate the valley. It represents a unique combination of impressive proportions and remarkably good preservation. Whether on a guided tour or exploring at your own pace, Bonaguil will immerse you in medieval history."
-                },
-                "monpazier": {
-                    "header": "Monpazier",
-                    "content": "An authentic bastide village featuring streets in a characteristic grid pattern. The town square sits at the heart of the bastide and houses a beautifully restored covered market. Monpazier is a National Heritage Site of France and one of 'Les Plus Beaux Villages de France', boasting 32 historic monuments."
-                },
-                "chateau-de-biron": {
-                    "header": "Château de Biron",
-                    "content": "This castle is a classified historic monument. Nearly 1,000 years of history have shaped this stone giant, offering a unique blend of medieval, Renaissance, and classical architecture. Animations, art exhibitions, shows, and other festive events provide wonderful opportunities to step through the gates of this fortress."
-                },
-                "rocamadour": {
-                    "header": "Rocamadour",
-                    "content": "Just southwest of Padirac, in the Causses du Quercy Regional Natural Park, lies the sacred village of Rocamadour. It is a place steeped in both legend and history, where ancient stone houses, majestic towers, and a castle cling to the cliffside above the Alzou canyon. Not only is the village one of France's top tourist destinations, it is also a UNESCO World Heritage site."
-                },
-                "gouffre-de-padirac": {
-                    "header": "Gouffre de Padirac",
-                    "content": "An Underground Adventure. Your journey begins with a descent into the heart of a 75-metre-deep cave. You then wander through underground galleries, 103 metres below the surface, to the pier for a guided boat trip. At the other end of the river, you disembark to continue your journey to the Lac des Gours and the incredible Salle du Grand Dôme."
-                },
-                "cahors": {
-                    "header": "Cahors",
-                    "content": "A medieval town situated in a loop of the Lot River. While perhaps less known outside of Occitanie, it is the perfect day trip if you wish to visit a stunning historical city in the French countryside. Cahors is sure to charm visitors with its chalky cliffs, fountains, winding river, and famous gastronomy."
-                },
-                "chateau-de-chambert": {
-                    "header": "Château de Chambert",
-                    "content": "A leading Malbec vineyard located on a limestone plateau overlooking the Lot Valley. The vines are planted high around the château, isolated from surrounding vineyards and the urban world. Enjoy delicious food at Restaurant Holodeck (lunch and dinner) or at The Everest Wine & Tapas bar (lunch)."
-                },
-                "grotte-de-rouffignac": {
-                    "header": "Grotte de Rouffignac",
-                    "content": "Located in the heart of the Périgord Noir, Rouffignac is a vast cave system. You will find over 250 animal figures scattered throughout this underground labyrinth. Aboard an electric train, you dive into a mysterious subterranean world to discover the art of prehistoric hunter-gatherers."
-                },
-                "villeneuve-sur-lot": {
-                    "header": "Villeneuve-sur-Lot",
-                    "content": "This historic bastide town was founded in 1253 by Alphonse de Poitiers. Today it is a much larger town surrounding the historical centre, yet there are still many fascinating historical features to discover within the city."
-                }
-            }
-        },
-        "practical-information": {
-            "hero": {
-                "header": "Practical Information"
-            },
-            "info-card": {
-                "arrival-departure": {
-                    "header": "Arrival & Departure",
-                    "arrival": {
-                        "header": "Arrival from 16:00",
-                        "content": "You can plan your arrival flexibly from 16:00 without being dependent on someone to grant you access to the property; you will receive full details after booking."
-                    },
-                    "departure": {
-                        "header": "Departure by 10:00",
-                        "content": "Departure is also independent; detailed information can be found in the guest guide inside the house."
-                    }
-                },
-                "travel": {
-                    "header": "The journey to Le Petit Wren",
-                    "content": "Most of our guests arrive by car; below is some information regarding the route and travel times. Additionally, you can fly into one of the three airports surrounding Fumel."
-                },
-                "car": {
-                    "header": "By car",
-                    "intro": "Routes from the UK and the Netherlands usually go via Paris and/or Orléans.",
-                    "routes": {
-                        "paris": {
-                            "header": "Paris – Fumel",
-                            "distance": "~ 600km",
-                            "time": "~ 6h 30m"
-                        },
-                        "orleans": {
-                            "header": "Orléans – Fumel",
-                            "distance": "~ 500km",
-                            "time": "~ 5h 30m"
-                        },
-                        "utrecht": {
-                            "header": "Utrecht – Fumel",
-                            "distance": "~ 1100km",
-                            "time": "~ 11h 30m"
-                        }
-                    },
-                    "times": {
-                        "normal": "(in normal traffic)"
-                    },
-                    "extra": {
-                        "header": "Route A20, exit 57 – Fumel:",
-                        "content": "Once you leave the motorway, there is approximately 1 hour of travel time remaining to Le Petit Wren. Not all navigation systems recommend the same route, but these paths almost always include several narrow (yet beautiful) country lanes. If you prefer a more comfortable drive, follow the D820 to Cahors, and then in Cahors take the D811 via Prayssac to Fumel. This route is slightly longer, but the roads are wider and clearer."
-                    }
-                },
-                "flying": {
-                    "header": "By air",
-                    "airports": {
-                        "bergerac": "Bergerac (1h)",
-                        "toulouse": "Toulouse (1h 40m)",
-                        "bordeaux": "Bordeaux (2h 10m)"
-                    }
-                },
-                "pool": {
-                    "header": "The Pool & Pool House",
-                    "content": "You have exclusive use of the swimming pool during your stay; please refer to the guest guide in the house for more detailed information."
-                },
-                "swimming-pool": {
-                    "header": "Swimming Pool",
-                    "list": {
-                        "guarded": "The pool is not supervised; it is the responsibility of guests to ensure their own safety and that of their children. As owners/representatives, we cannot be held liable for any accidents occurring during the use of the pool.",
-                        "kids": "Children may only use the pool under the supervision of an adult.",
-                        "glasses": "The use of glassware or ceramic crockery from the house around the pool area is strictly forbidden.",
-                        "salt-electrolysis-system": "The pool uses an automatic salt electrolysis system, which continuously ensures high-quality swimming water without the unpleasant side effects of chlorine-treated water."
-                    }
-                },
-                "poolhouse": {
-                    "header": "Pool House",
-                    "list": {
-                        "douche-toilet": "Here you have access to a shower, toilet, and the 'summer kitchen' featuring a sink, 4-burner gas hob, and fridge.",
-                        "cutterly": "Plastic crockery and glasses are provided for outdoor use.",
-                        "sport-games": "Various sports, games, and inflatable items are available on the wall rack."
-                    }
-                },
-                "environment-energy": {
-                    "header": "Environment & Energy",
-                    "list": {
-                        "solar-panels": "Solar panels: the roof of the house is fitted with 12 solar panels.",
-                        "ev": "EV charging: a charging unit is available for electric vehicles.",
-                        "drinking-water": "Drinking water: there is a water softening system equipped with a filter, ensuring clean drinking water without any aftertaste (chlorine) straight from the tap. There is no need to purchase bottled water.",
-                        "waste-separation": "Waste separation: separate bins are provided for recycling; waste should be taken to a nearby local collection point."
-                    }
-                },
-                "barbecue": {
-                    "header": "Barbecue",
-                    "content": "A large Weber gas barbecue is located by the Pool House. Please see the guidelines in the guest guide; the user manual for the barbecue and the gas bottle is located in the Pool House.",
-                    "list": {
-                        "bbq": "Only this barbecue may be used; it is forbidden to use any other barbecue equipment.",
-                        "moved": "The barbecue must not be moved from its position.",
-                        "check": "Check the operation of the gas pressure regulator on the bottle, as it may differ from what you are used to at home. Always close the gas bottle after use."
-                    }
-                },
-                "house-rules": {
-                    "header": "Key House Rules",
-                    "content": "To ensure everything runs smoothly during your stay, we have established a few rules. You can also find this information in more detail in the guest guide inside the property.",
-                    "list": {
-                        "respect": "With respect for the neighbourhood, 'quiet hours' are between 23:00 and 07:00.",
-                        "pets": "Pets are not permitted.",
-                        "smoke-free": "This is a smoke-free accommodation; smoking or vaping inside is strictly prohibited.",
-                        "party": "Parties, events, and large gatherings are not allowed.",
-                        "groups": "Groups of young people, students, and sports teams are not permitted.",
-                        "visitors": "Visitors are welcome during the day but are not permitted to stay overnight.",
-                        "trash": "Waste must be sorted and taken to a nearby waste collection point.",
-                        "fire": "Fire pits, campfires, candles, and other forms of open flame are prohibited around the house and throughout the grounds.",
-                        "max": "The maximum occupancy is 8 people."
-                    }
-                },
-                "parking": {
-                    "header": "Parking",
-                    "list": {
-                        "places": "There are parking spaces for multiple cars.",
-                        "charging": "A charging unit is available for hybrid and fully electric vehicles.",
-                        "loading-cable": "Charging cable 8 metres in length, type 2 connector."
-                    }
-                }
-            }
-        },
-        "book-now": {
-            "header": {
-                "tarif-available": "Rates & Availability",
-                "available": "Availability - 2026"
-            },
-            "sub-header": {
-                "tarif-available": "Prices per period including stay options"
-            },
-            "info-card": {
-                "booking": {
-                    "header": "Bookings",
-                    "content": "To make a reservation or for specific enquiries about the property, please use the contact form on the Agence Sud'Arrange website.",
-                    "link": "Click here to go to the contact form"
-                }
-            },
-            "periods": {
-                "columns": {
-                    "period": "Period",
-                    "per-week": "Per Week",
-                    "mid-week": "Midweek",
-                    "night": "Night",
-                    "weekend": "Weekend",
-                    "min-stay": "Min. stay"
-                },
-                "extra-cost": {
-                    "header": "Additional costs",
-                    "cost": {
-                        "deposit": "Security deposit",
-                        "end-cleaning": "Final cleaning",
-                        "linnen": "Linen",
-                        "tourist-tax": "Tourist tax",
-                        "per-night": "p.p. per night"
-                    }
-                },
-                "end-season": "End of season",
-                "n-a": "N/A",
-                "nights": "nights"
-            },
-            "status": {
-                "available": "Available",
-                "option": "Option",
-                "booked": "Booked"
-            }
-        },
-        "contact": {
-            "info-card": {
-                "booking": {
-                    "header": "For enquiries regarding the property and bookings",
-                    "content": "Agence Sud'Arrange {newline} Phone: + 33 658 31 66 63 {newline} {mailto} {newline} Contact form {form}",
-                    "form": "click here"
-                }
-            }
+        "outside-pool": {
+          "header": "Outdoor Living & Swimming Pool",
+          "content": "The house is set on a beautiful plot of approximately 4,000 m², fully enclosed and accessible via an electric entrance gate. The garden offers plenty of privacy and multiple terraces, allowing you to choose between sun and shade at any time of day. {newline} The large, renovated swimming pool (approx. 40 m²) is south-facing and serves as the central point of the garden. Here, you can enjoy long summer days with views over nature. Additionally, the property features a fully equipped pool house with:",
+          "footer": "Furthermore, there is ample private parking for several cars on-site, including charging facilities for EVs."
         }
+      },
+      "groundLevelList": {
+        "header": "Ground Floor / Entrance Level",
+        "royal-kitchen": "Spacious and fully equipped kitchen-diner",
+        "open-dining": "Open-plan dining room",
+        "sitting-area": "Atmospheric sitting room on split-level"
+      },
+      "lowerLevelList": {
+        "header": "Lower Floor",
+        "master-bedroom": "Master bedroom with en-suite bathroom (walk-in shower, double washbasin and toilet)",
+        "laundry": "Laundry/storage room (including washing machine, freezer, ironing board and iron, vacuum cleaner)"
+      },
+      "upperLevelList": {
+        "header": "Upper Floor",
+        "bedrooms": "3 spacious bedrooms",
+        "bathrooms": "Second bathroom  (walk-in shower, double washbasin and toilet)",
+        "toilet": "Landing with separate toilet"
+      },
+      "poolList": {
+        "kitchen": "Kitchen (Sink, 4-burner hob and fridge)",
+        "shower-toilet": "Shower and toilet",
+        "plastic-tableware": "Plastic tableware for use in the garden and by the pool",
+        "sport-play": "Multiple sports and games items",
+        "royal-bbq": "Large gas barbecue"
+      },
+      "houseList": {
+        "header": "Ideal for your stay",
+        "type": "Detached house",
+        "private-pool": "Private swimming pool",
+        "poolhouse": "Pool house with kitchen and facilities",
+        "bedrooms": "4 bedrooms",
+        "bathrooms": "2 modern bathrooms",
+        "kitchen": "Large, fully equipped kitchen",
+        "non-smoking": "Non-smoking house",
+        "bbq": "BBQ / Outdoor kitchen",
+        "terraces": "Multiple terraces",
+        "gated-property": "Fully enclosed grounds with electric entrance gate",
+        "parking": "On-site parking with charging facilities for EVs",
+        "location": "Quiet rural location with views"
+      },
+      "kitchenList": {
+        "header": "Kitchen",
+        "stovetop": "Hob (4-burner induction)",
+        "oven": "Oven (fan-assisted)",
+        "fridge-freezer": "Fridge-freezer",
+        "dishwasher": "Dishwasher",
+        "microwave": "Microwave",
+        "coffee-machine": "Coffee machine",
+        "espresso-machine": "Espresso machine (Nespresso pods)",
+        "kettle": "Electric kettle",
+        "utensils": "Kitchen utensils",
+        "tableware": "Crockery & Cutlery"
+      },
+      "livingRoomList": {
+        "header": "Living Room",
+        "layout": "Spread over 2 levels (split level)",
+        "sofas": "2 sofas",
+        "loveseats": "2 love-seats",
+        "dining-table": "Dining table with 8 chairs",
+        "flooring": "Tiled floor"
+      },
+      "internetTvList": {
+        "header": "Internet & TV",
+        "wifi": "Wi-Fi available throughout the house",
+        "internet": "Broadband/Fibre-optic",
+        "tv": "Smart TV (Chromecast available)"
+      },
+      "pool2List": {
+        "header": "Swimming Pool",
+        "pool": "Seasonal private outdoor pool",
+        "sunbeds": "Sun loungers (6)",
+        "chairs": "Armchairs (2)",
+        "side-tables": "Side tables",
+        "parasols": "Parasols (2)",
+        "towels": "Pool towels"
+      },
+      "parkingList": {
+        "header": "Parking",
+        "private-parking": "Private on-site parking",
+        "ev-charging": "Charging facility for electric cars"
+      },
+      "elseList": {
+        "header": "Other",
+        "laundry-room": "Separate laundry room on lower floor (washing machine, freezer, ironing board/iron, drying racks)",
+        "baby-amenities": "Cot (60x100cm) and high chair available",
+        "no-smoking": "No smoking throughout the accommodation",
+        "entertainment": "Books and Games available"
+      },
+      "bedroomList": {
+        "header": "Bedrooms",
+        "bedroom-ground-floor": "Lower floor bedroom, double bed",
+        "bedroom1": "Bedroom 1 upstairs, double bed",
+        "bedroom2": "Bedroom 2 upstairs, double bed",
+        "bedroom3": "Bedroom 3 upstairs, double bed",
+        "linens": "Bed linen",
+        "wardrobes": "All rooms have a wardrobe",
+        "nightstands": "Twin bedside tables by the beds",
+        "flooring": "Wooden floors"
+      },
+      "bathroomList": {
+        "header": "Bathrooms",
+        "modern": "Recently modernised",
+        "shower": "Walk-in shower",
+        "double-sink": "Double washbasin",
+        "toilet": "WC",
+        "towels": "Towels"
+      },
+      "outsideList": {
+        "header": "Outside",
+        "poolhouse": "Pool house with kitchen, shower and toilet",
+        "terraces": "Multiple terraces",
+        "kitchen-terrace": "Raised terrace off kitchen with dining table and chairs, electric awning",
+        "rear-terrace": "Terrace off living room (rear)",
+        "front-veranda": "Veranda off living room (front)",
+        "poolside-terrace": "Terrace next to pool house with benches, armchairs and large parasol",
+        "garden": "Garden (lawn & woods)",
+        "bbq": "Large BBQ (gas)",
+        "view": "Views of garden, pool, fields and hilly landscape"
+      }
     },
-    "footer": {
-        "slogan": "Your luxury retreat in the heart of the Lot-et-Garonne.",
-        "header": {
-            "menu": "Page menu",
-            "location": "Location",
-            "information": "Information",
-            "reserve": "Reservation",
-            "weather": "The weather in Fumel"
+    "photos": {
+      "categories": {
+        "header": "Categories",
+        "outside-pool": "Outside & Swimming Pool",
+        "living-space": "Living Area",
+        "kitchen": "Kitchen",
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "poolhouse": "Pool house",
+        "area": "Surroundings"
+      },
+      "no-images": "No images found for this category"
+    },
+    "area": {
+      "info-card": {
+        "the-area": {
+          "links-header": "Websites with information about Fumel and the surrounding area:",
+          "footer": "Inside the property, you will find an information folder containing many suggestions for trips and activities",
+          "content": "Fumel is located in the heart of Southwest France, on the border of the Lot-et-Garonne and Dordogne departments—a region renowned for its peace, space, and authentic French atmosphere. Here you will find rolling hills, sun-drenched vineyards, medieval bastide villages, and vast nature, far from mass tourism but with everything within reach for a wonderful holiday. {newline} The Fumel area is ideal for walking and cycling enthusiasts. Small country lanes lead past sunflower fields, plum orchards, and charming villages with inviting markets and terraces. In summer, the region comes alive with antique fairs (brocantes), evening markets, and local festivals where you can enjoy regional products, music, and the relaxed French lifestyle. {newline} Culture lovers will also find plenty to explore. In the immediate vicinity lie beautiful bastide villages with narrow streets, historic squares, and impressive castles. Visit local markets featuring foie gras, walnuts, cheeses, and regional wines, or settle onto a terrace for a long lunch in the sun. {newline} The River Lot offers plenty of recreational opportunities: canoeing, fishing, or simply relaxing by the water. Additionally, there are several golf courses, wine estates, and scenic routes for day trips through the Lot-et-Garonne, Dordogne, and Lot departments. {newline} {links} {newLine} {footer}"
+        },
+        "chateau-de-bonaguil": {
+          "header": "Château de Bonaguil",
+          "content": "Château de Bonaguil is located just 5 minutes from Le Petit Wren. From the top of a rocky outcrop, this castle and its medieval village dominate the valley. It represents a unique combination of impressive proportions and remarkably good preservation. Whether on a guided tour or exploring at your own pace, Bonaguil will immerse you in medieval history."
+        },
+        "monpazier": {
+          "header": "Monpazier",
+          "content": "An authentic bastide village featuring streets in a characteristic grid pattern. The town square sits at the heart of the bastide and houses a beautifully restored covered market. Monpazier is a National Heritage Site of France and one of 'Les Plus Beaux Villages de France', boasting 32 historic monuments."
+        },
+        "chateau-de-biron": {
+          "header": "Château de Biron",
+          "content": "This castle is a classified historic monument. Nearly 1,000 years of history have shaped this stone giant, offering a unique blend of medieval, Renaissance, and classical architecture. Animations, art exhibitions, shows, and other festive events provide wonderful opportunities to step through the gates of this fortress."
+        },
+        "rocamadour": {
+          "header": "Rocamadour",
+          "content": "Just southwest of Padirac, in the Causses du Quercy Regional Natural Park, lies the sacred village of Rocamadour. It is a place steeped in both legend and history, where ancient stone houses, majestic towers, and a castle cling to the cliffside above the Alzou canyon. Not only is the village one of France's top tourist destinations, it is also a UNESCO World Heritage site."
+        },
+        "gouffre-de-padirac": {
+          "header": "Gouffre de Padirac",
+          "content": "An Underground Adventure. Your journey begins with a descent into the heart of a 75-metre-deep cave. You then wander through underground galleries, 103 metres below the surface, to the pier for a guided boat trip. At the other end of the river, you disembark to continue your journey to the Lac des Gours and the incredible Salle du Grand Dôme."
+        },
+        "cahors": {
+          "header": "Cahors",
+          "content": "A medieval town situated in a loop of the Lot River. While perhaps less known outside of Occitanie, it is the perfect day trip if you wish to visit a stunning historical city in the French countryside. Cahors is sure to charm visitors with its chalky cliffs, fountains, winding river, and famous gastronomy."
+        },
+        "chateau-de-chambert": {
+          "header": "Château de Chambert",
+          "content": "A leading Malbec vineyard located on a limestone plateau overlooking the Lot Valley. The vines are planted high around the château, isolated from surrounding vineyards and the urban world. Enjoy delicious food at Restaurant Holodeck (lunch and dinner) or at The Everest Wine & Tapas bar (lunch)."
+        },
+        "grotte-de-rouffignac": {
+          "header": "Grotte de Rouffignac",
+          "content": "Located in the heart of the Périgord Noir, Rouffignac is a vast cave system. You will find over 250 animal figures scattered throughout this underground labyrinth. Aboard an electric train, you dive into a mysterious subterranean world to discover the art of prehistoric hunter-gatherers."
+        },
+        "villeneuve-sur-lot": {
+          "header": "Villeneuve-sur-Lot",
+          "content": "This historic bastide town was founded in 1253 by Alphonse de Poitiers. Today it is a much larger town surrounding the historical centre, yet there are still many fascinating historical features to discover within the city."
         }
+      }
+    },
+    "practical-information": {
+      "hero": {
+        "header": "Practical Information"
+      },
+      "info-card": {
+        "arrival-departure": {
+          "header": "Arrival & Departure",
+          "arrival": {
+            "header": "Arrival from 16:00",
+            "content": "You can plan your arrival flexibly from 16:00 without being dependent on someone to grant you access to the property; you will receive full details after booking."
+          },
+          "departure": {
+            "header": "Departure by 10:00",
+            "content": "Departure is also independent; detailed information can be found in the guest guide inside the house."
+          }
+        },
+        "travel": {
+          "header": "The journey to Le Petit Wren",
+          "content": "Most of our guests arrive by car; below is some information regarding the route and travel times. Additionally, you can fly into one of the three airports surrounding Fumel."
+        },
+        "car": {
+          "header": "By car",
+          "intro": "Routes from the UK and the Netherlands usually go via Paris and/or Orléans.",
+          "routes": {
+            "paris": {
+              "header": "Paris – Fumel",
+              "distance": "~ 600km",
+              "time": "~ 6h 30m"
+            },
+            "orleans": {
+              "header": "Orléans – Fumel",
+              "distance": "~ 500km",
+              "time": "~ 5h 30m"
+            },
+            "utrecht": {
+              "header": "Utrecht – Fumel",
+              "distance": "~ 1100km",
+              "time": "~ 11h 30m"
+            }
+          },
+          "times": {
+            "normal": "(in normal traffic)"
+          },
+          "extra": {
+            "header": "Route A20, exit 57 – Fumel:",
+            "content": "Once you leave the motorway, there is approximately 1 hour of travel time remaining to Le Petit Wren. Not all navigation systems recommend the same route, but these paths almost always include several narrow (yet beautiful) country lanes. If you prefer a more comfortable drive, follow the D820 to Cahors, and then in Cahors take the D811 via Prayssac to Fumel. This route is slightly longer, but the roads are wider and clearer."
+          }
+        },
+        "flying": {
+          "header": "By air",
+          "airports": {
+            "bergerac": "Bergerac (1h)",
+            "toulouse": "Toulouse (1h 40m)",
+            "bordeaux": "Bordeaux (2h 10m)"
+          }
+        },
+        "pool": {
+          "header": "The Pool & Pool House",
+          "content": "You have exclusive use of the swimming pool during your stay; please refer to the guest guide in the house for more detailed information."
+        },
+        "swimming-pool": {
+          "header": "Swimming Pool",
+          "list": {
+            "guarded": "The pool is not supervised; it is the responsibility of guests to ensure their own safety and that of their children. As owners/representatives, we cannot be held liable for any accidents occurring during the use of the pool.",
+            "kids": "Children may only use the pool under the supervision of an adult.",
+            "glasses": "The use of glassware or ceramic crockery from the house around the pool area is strictly forbidden.",
+            "salt-electrolysis-system": "The pool uses an automatic salt electrolysis system, which continuously ensures high-quality swimming water without the unpleasant side effects of chlorine-treated water."
+          }
+        },
+        "poolhouse": {
+          "header": "Pool House",
+          "list": {
+            "douche-toilet": "Here you have access to a shower, toilet, and the 'summer kitchen' featuring a sink, 4-burner gas hob, and fridge.",
+            "cutterly": "Plastic crockery and glasses are provided for outdoor use.",
+            "sport-games": "Various sports, games, and inflatable items are available on the wall rack."
+          }
+        },
+        "environment-energy": {
+          "header": "Environment & Energy",
+          "list": {
+            "solar-panels": "Solar panels: the roof of the house is fitted with 12 solar panels.",
+            "ev": "EV charging: a charging unit is available for electric vehicles.",
+            "drinking-water": "Drinking water: there is a water softening system equipped with a filter, ensuring clean drinking water without any aftertaste (chlorine) straight from the tap. There is no need to purchase bottled water.",
+            "waste-separation": "Waste separation: separate bins are provided for recycling; waste should be taken to a nearby local collection point."
+          }
+        },
+        "barbecue": {
+          "header": "Barbecue",
+          "content": "A large Weber gas barbecue is located by the Pool House. Please see the guidelines in the guest guide; the user manual for the barbecue and the gas bottle is located in the Pool House.",
+          "list": {
+            "bbq": "Only this barbecue may be used; it is forbidden to use any other barbecue equipment.",
+            "moved": "The barbecue must not be moved from its position.",
+            "check": "Check the operation of the gas pressure regulator on the bottle, as it may differ from what you are used to at home. Always close the gas bottle after use."
+          }
+        },
+        "house-rules": {
+          "header": "Key House Rules",
+          "content": "To ensure everything runs smoothly during your stay, we have established a few rules. You can also find this information in more detail in the guest guide inside the property.",
+          "list": {
+            "respect": "With respect for the neighbourhood, 'quiet hours' are between 23:00 and 07:00.",
+            "pets": "Pets are not permitted.",
+            "smoke-free": "This is a smoke-free accommodation; smoking or vaping inside is strictly prohibited.",
+            "party": "Parties, events, and large gatherings are not allowed.",
+            "groups": "Groups of young people, students, and sports teams are not permitted.",
+            "visitors": "Visitors are welcome during the day but are not permitted to stay overnight.",
+            "trash": "Waste must be sorted and taken to a nearby waste collection point.",
+            "fire": "Fire pits, campfires, candles, and other forms of open flame are prohibited around the house and throughout the grounds.",
+            "max": "The maximum occupancy is 8 people."
+          }
+        },
+        "parking": {
+          "header": "Parking",
+          "list": {
+            "places": "There are parking spaces for multiple cars.",
+            "charging": "A charging unit is available for hybrid and fully electric vehicles.",
+            "loading-cable": "Charging cable 8 metres in length, type 2 connector."
+          }
+        }
+      }
+    },
+    "book-now": {
+      "header": {
+        "tarif-available": "Rates & Availability",
+        "available": "Availability - 2026"
+      },
+      "sub-header": {
+        "tarif-available": "Prices per period including stay options"
+      },
+      "info-card": {
+        "booking": {
+          "header": "Bookings",
+          "content": "To make a reservation or for specific enquiries about the property, please use the contact form on the Agence Sud'Arrange website.",
+          "link": "Click here to go to the contact form"
+        }
+      },
+      "periods": {
+        "columns": {
+          "period": "Period",
+          "per-week": "Per Week",
+          "mid-week": "Midweek",
+          "night": "Night",
+          "weekend": "Weekend",
+          "min-stay": "Min. stay"
+        },
+        "extra-cost": {
+          "header": "Additional costs",
+          "cost": {
+            "deposit": "Security deposit",
+            "end-cleaning": "Final cleaning",
+            "linnen": "Linen",
+            "tourist-tax": "Tourist tax",
+            "per-night": "p.p. per night"
+          }
+        },
+        "end-season": "End of season",
+        "n-a": "N/A",
+        "nights": "nights"
+      },
+      "status": {
+        "available": "Available",
+        "option": "Option",
+        "booked": "Booked"
+      }
+    },
+    "contact": {
+      "info-card": {
+        "booking": {
+          "header": "For enquiries regarding the property and bookings",
+          "content": "Agence Sud'Arrange {newline} Phone: + 33 658 31 66 63 {newline} {mailto} {newline} Contact form {form}",
+          "form": "click here"
+        }
+      }
     }
+  },
+  "footer": {
+    "slogan": "Your luxury retreat in the heart of the Lot-et-Garonne.",
+    "header": {
+      "menu": "Page menu",
+      "location": "Location",
+      "information": "Information",
+      "reserve": "Reservation",
+      "weather": "The weather in Fumel"
+    }
+  }
 }

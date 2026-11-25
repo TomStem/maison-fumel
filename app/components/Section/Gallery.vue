@@ -1,13 +1,10 @@
 <script setup lang="ts">
 import Galleria from 'primevue/galleria';
+import type { Image } from '~/composables/useGallery';
 
 defineOptions({
   name: 'SectionGallery',
 });
-
-interface Image {
-  itemImageSrc: string;
-}
 
 const { isVisible, activeIndex, galleryImages, openGallery } = useGallery();
 
@@ -26,7 +23,7 @@ withDefaults(defineProps<Props>(), {
   <Galleria
     v-model:visible="isVisible"
     v-model:active-index="activeIndex"
-    :value="galleryImages.length ? galleryImages : images"
+    :value="galleryImages ? galleryImages : images"
     :num-visible="4"
     :circular="true"
     :full-screen="true"
@@ -38,7 +35,7 @@ withDefaults(defineProps<Props>(), {
         :src="slotProps.item.itemImageSrc"
         alt="''"
         class="max-w-[1250px] max-h-[90vh] object-contain rounded-xl shadow-xl"
-      />
+      >
     </template>
   </Galleria>
 
@@ -70,7 +67,7 @@ withDefaults(defineProps<Props>(), {
           loading="lazy"
           alt="''"
           class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
-        />
+        >
 
         <div
           class="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center"

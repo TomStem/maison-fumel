@@ -1,4 +1,4 @@
-interface Image {
+export interface Image {
   itemImageSrc?: string;
   category?: string;
   full?: string;
@@ -11,7 +11,7 @@ const activeIndex = ref(0);
 const galleryImages = ref<Image[]>([]);
 
 export function useGallery() {
-  function openGallery(images: Image[] | any[], index: number = 0) {
+  function openGallery(images: Image[], index: number = 0) {
     galleryImages.value = images;
     activeIndex.value = index;
     isVisible.value = true;
@@ -22,7 +22,6 @@ export function useGallery() {
   }
 
   return {
-    Image,
     isVisible,
     activeIndex,
     galleryImages,
